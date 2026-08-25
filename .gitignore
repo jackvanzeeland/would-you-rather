@@ -45,3 +45,6 @@ logs/
 .claude/.skip-auto-commit-prompt
 /data/raw
 .env*
+
+# Playwright MCP scratch output (page snapshots, ad-hoc screenshots)
+.playwright-mcp/
