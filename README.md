@@ -11,6 +11,7 @@ Pick a side across 8 categories, drawn from 1,033 curated dilemmas.
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 [![Deploy with Vercel](https://img.shields.io/badge/Deploy-Vercel-black?logo=vercel&logoColor=white)](https://vercel.com/new)
+[![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)](LICENSE)
 
 </div>
 
@@ -112,3 +113,7 @@ npx vercel
 ```
 
 or connect the GitHub repo at [vercel.com/new](https://vercel.com/new).
+
+## License
+
+[MIT](LICENSE) © Jack Van Zeeland
