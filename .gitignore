@@ -42,7 +42,7 @@ logs/
 !.vscode/extensions.json
 
 # Claude Code
-.claude/.skip-auto-commit-prompt
+.claude/*
 /data/raw
 .env*
 
