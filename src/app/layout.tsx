@@ -1,6 +1,8 @@
 import type { Metadata, Viewport } from "next";
 import { Bricolage_Grotesque, Plus_Jakarta_Sans, IBM_Plex_Mono } from "next/font/google";
 import Script from "next/script";
+import { SerwistProvider } from "@serwist/turbopack/react";
+import OfflineBanner from "@/components/OfflineBanner";
 import { QUESTIONS } from "@/lib/data";
 import { CATEGORY_ORDER } from "@/lib/theme";
 import "./globals.css";
@@ -94,7 +96,15 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
         <Script id="theme-init" strategy="beforeInteractive">
           {THEME_INIT_SCRIPT}
         </Script>
-        {children}
+        {/* reloadOnOnline=false: a mid-duel session lives only in memory
+            (GameApp's React state), so force-reloading the moment
+            connectivity returns would silently bounce a player back to the
+            setup screen. useOffline's own retry mechanism already resumes
+            in place without a reload. */}
+        <SerwistProvider swUrl="/serwist/sw.js" reloadOnOnline={false}>
+          <OfflineBanner />
+          {children}
+        </SerwistProvider>
       </body>
     </html>
   );

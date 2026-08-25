@@ -48,3 +48,7 @@ logs/
 
 # Playwright MCP scratch output (page snapshots, ad-hoc screenshots)
 .playwright-mcp/
+
+# Serwist (offline support) — generated service-worker build output
+public/sw*
+public/swe-worker*
