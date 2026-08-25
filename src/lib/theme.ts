@@ -8,6 +8,7 @@ export const CATEGORY_ORDER: CategoryName[] = [
   "Occupation",
   "Dreams",
   "Recreation",
+  "Less of Two Evils",
 ];
 
 export const CATEGORY_THEMES: Record<CategoryName, CategoryTheme> = {
@@ -52,5 +53,11 @@ export const CATEGORY_THEMES: Record<CategoryName, CategoryTheme> = {
     accent: "#22C55E",
     accentSoft: "#DEFBE7",
     tagline: "Food, sports & fun",
+  },
+  "Less of Two Evils": {
+    name: "Less of Two Evils",
+    accent: "#B3122A",
+    accentSoft: "#FBE0E3",
+    tagline: "Pick your poison",
   },
 };

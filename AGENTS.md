@@ -17,10 +17,20 @@ Learnings from building this out — read before making structural changes.
 - `data/questions.json` is the single source of truth: a flat array of
   `{ option1, option2, category }`. The app imports it directly
   (`src/lib/data.ts`) via a relative path from `src/`, not a copy inside `src/`.
-- The 7 categories are fixed and must match exactly (used as literal strings
+- The 8 categories are fixed and must match exactly (used as literal strings
   in the data, and as keys in `CATEGORY_ORDER`/`CATEGORY_THEMES` in
   `src/lib/theme.ts`): `Deep Thoughts`, `Family`, `Friends`, `Dating`,
-  `Occupation`, `Dreams`, `Recreation`.
+  `Occupation`, `Dreams`, `Recreation`, `Less of Two Evils`.
+  A category name has to stay in sync in three places or `npm run validate`
+  fails the build: the `CategoryName` union in `src/lib/types.ts`,
+  `CATEGORY_ORDER`/`CATEGORY_THEMES` in `src/lib/theme.ts`, and the
+  `CATEGORIES` set hardcoded in `scripts/validate-data.mjs`.
+- `Less of Two Evils` (added 2026-08-25) is a deliberately darker category —
+  two comparably terrible, grim-but-grounded outcomes with no clean pick,
+  more trolley-problem than the lighter/funnier tone of the other 7. Keep
+  new entries in that register (see `data/raw/less-of-two-evils/` for the
+  original research + drafting notes) rather than drifting toward the
+  cartoonish "dark WYR" content that's common elsewhere on the web.
 - `data/raw/<category>/` holds the raw source pages each category was
   scraped from, kept locally for provenance but **gitignored** — don't expect
   it to be there on a fresh clone. `docs/screenshots/` is the opposite: those

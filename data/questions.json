@@ -4713,5 +4713,455 @@
     "option1": "have unlimited international first-class flights",
     "option2": "never pay for food at restaurants again",
     "category": "Recreation"
+  },
+  {
+    "option1": "Lose a parent to a long, slow illness",
+    "option2": "lose a parent suddenly with no chance to say goodbye",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Bury your own child",
+    "option2": "have your child bury you decades before you expected",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Find out your spouse never loved you",
+    "option2": "find out your spouse loved someone else more",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Lose the ability to ever have children",
+    "option2": "lose the only child you have",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Be the reason a stranger dies to save your family",
+    "option2": "let your family die rather than sacrifice a stranger",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Discover your best friend betrayed you",
+    "option2": "be the one who betrayed your best friend",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Spend years in prison for a crime you didn't commit",
+    "option2": "walk free knowing someone else is serving your sentence",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Cause an accident that kills someone you love",
+    "option2": "watch a stranger cause it and walk away unhurt",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Choose which of two people you love survives a disaster",
+    "option2": "lose them both because you refused to choose",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Know the exact day you'll die",
+    "option2": "not know when you'll die but watch everyone you love die first",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Give up your own life to save five strangers",
+    "option2": "let five strangers die so you can live",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Lose your memories of everyone you love",
+    "option2": "have everyone you love lose their memories of you",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Be blamed for your family losing everything",
+    "option2": "lose everything because of a mistake someone else made",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Lose your home with your family safe",
+    "option2": "keep your home but lose one person in it",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Find out a loved one has lied to you for years",
+    "option2": "be the one who's been lying to a loved one for years",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Choose which of your siblings gets the one available lifesaving treatment",
+    "option2": "lose all of them because no one could choose",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Be forgotten for the good you did",
+    "option2": "be remembered forever for a mistake you never meant to make",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Ruin your reputation to save a friend's life",
+    "option2": "let a friend take the fall to protect your reputation",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Live the rest of your life in constant pain",
+    "option2": "lose the ability to feel anything at all, good or bad",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Watch someone you love destroy themselves and be able to stop them once",
+    "option2": "watch it happen and never be able to intervene at all",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Tell a dying loved one a comforting lie",
+    "option2": "tell them a painful truth they never asked to hear",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Report a close friend's crime and lose the friendship",
+    "option2": "stay silent and become complicit",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Let a guilty person go free to protect an innocent bystander",
+    "option2": "convict an innocent person to keep a guilty one off the streets",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Have to choose one coworker to lay off to save the rest of the team",
+    "option2": "let the whole team be laid off because you refused to pick",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Take credit for a mistake that wasn't yours to protect someone else's career",
+    "option2": "let someone else take the blame for your mistake instead",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Lose your ability to speak for the rest of your life",
+    "option2": "lose your ability to hear anyone else ever again",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Watch your child fail at something they love",
+    "option2": "push them so hard they succeed but resent you for it",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Give up the person you love to keep them safe",
+    "option2": "keep them and risk losing them anyway",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Survive a disaster that kills your neighbors",
+    "option2": "die in a disaster your neighbors survive",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Learn the truth about how a loved one really died",
+    "option2": "never know and always wonder",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Break a promise to someone dying",
+    "option2": "keep the promise and destroy yourself doing it",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Be the last of your friend group to find out devastating news",
+    "option2": "be the one who has to deliver it to everyone else",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Let a family member move away for a better life",
+    "option2": "keep them close knowing they gave up their dream",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Choose to end a loved one's suffering when they can't decide for themselves",
+    "option2": "let them suffer because you couldn't make that choice",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Find out you were adopted and your whole life was a lie",
+    "option2": "find out a sibling was given up and you weren't",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Sacrifice your marriage to save your child from a hard truth",
+    "option2": "sacrifice your child's trust to save your marriage",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Be the doctor who has to choose who gets the last bed",
+    "option2": "be the family member waiting to hear if your loved one got it",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Watch your best friend marry someone who will hurt them",
+    "option2": "say something and lose the friendship either way",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Take the blame for a car accident you didn't cause to protect someone you love",
+    "option2": "let them face the consequences alone",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Give away your only chance at a cure so a stranger's child can have it",
+    "option2": "keep it and let a child die who could've been saved",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Have to identify a loved one's body",
+    "option2": "have someone else identify yours and spare you that",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Lose a decade of your life to an illness you survive",
+    "option2": "lose a loved one instantly to the same illness",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Watch a parent's mind fade before their body does",
+    "option2": "watch their body fail while their mind stays sharp",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Choose to pull the plug on life support for someone you love",
+    "option2": "let them linger indefinitely with no chance of recovery",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Confess to something that ends your career but clears an innocent person",
+    "option2": "stay silent and let someone else pay for it",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Give up custody of your child to give them a better life",
+    "option2": "fight to keep them in a life you can't actually give them",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Learn your parents regret having you",
+    "option2": "never know how your parents really felt about you",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Be the one who survives a tragedy everyone else didn't",
+    "option2": "be one of the ones who didn't make it",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Watch a sibling get everything you worked for",
+    "option2": "get everything and watch your sibling struggle because of it",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Trade your healthy years for a longer life spent sick",
+    "option2": "trade a shorter life for good health the whole way through",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Discover the person who saved your life regrets it",
+    "option2": "discover the person you saved regrets being alive",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Choose to end a relationship to protect someone",
+    "option2": "stay and slowly hurt them by accident",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Let your child make a mistake that changes their life forever",
+    "option2": "stop them and take away their choice forever",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Find out you inherited your family's worst trait",
+    "option2": "watch your child inherit it instead of you",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Be the reason your family's business fails",
+    "option2": "watch it succeed under someone who tore your family apart to run it",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Lose the last years with a parent to your own illness",
+    "option2": "lose them to their illness while you stay healthy",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Give up the truth to keep peace in your family",
+    "option2": "tell the truth and watch your family fall apart",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Be unable to forgive someone who wronged you",
+    "option2": "be unable to forgive yourself for wronging someone else",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Choose to save a stranger's life at the cost of your own health",
+    "option2": "walk away healthy knowing you could have helped",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Let a loved one leave to chase a dream that will likely fail",
+    "option2": "stop them and let them wonder \"what if\" forever",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Find out the accident was your fault",
+    "option2": "find out it was no one's fault and there was nothing anyone could've done",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Watch someone you love get the diagnosis you feared for yourself",
+    "option2": "get the diagnosis yourself and spare them the fear",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Be forced to choose between your career and your family in a single moment",
+    "option2": "lose both slowly over years without ever having to choose",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Discover a friend only stayed close to you out of guilt",
+    "option2": "discover you only stayed close to them out of guilt",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Give a eulogy for someone you failed to save",
+    "option2": "have someone else give yours after they couldn't save you",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Let your parents down by living your own life",
+    "option2": "live the life your parents wanted and let yourself down",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Have your worst moment become public knowledge",
+    "option2": "never be believed about your best one",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Watch your community rebuild without you after you're forced to leave",
+    "option2": "stay and watch it fall apart around you",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Choose to end a friendship that's hurting you",
+    "option2": "stay in it because losing it would hurt more",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Find out the person who hurt you never faced any consequences",
+    "option2": "face consequences yourself for something you didn't do",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Give up your only shot at your dream to care for someone you love",
+    "option2": "take the shot and lose time with them you can't get back",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Be the one who has to break devastating news to a room full of people",
+    "option2": "be one of the people hearing it",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Watch two people you love go to war with each other",
+    "option2": "be forced to pick a side and lose the other",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Trade a peaceful death you don't see coming for a slow one where you get to say goodbye",
+    "option2": "trade goodbye for peace",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Discover you were the reason a relationship ended",
+    "option2": "discover you were the reason it never had a chance to start",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Let a stranger take blame for something and never correct it",
+    "option2": "correct it and destroy your own life in the process",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Choose to let go of a grudge that's protecting you",
+    "option2": "hold onto it and let it consume you",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Be the survivor everyone expects to have answers",
+    "option2": "be gone and leave everyone else without any",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Watch a loved one make peace with a death sentence",
+    "option2": "watch them fight it and suffer through false hope",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Give someone the truth that ends their hope",
+    "option2": "give them hope that isn't true",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Take a plea deal for something you didn't do to avoid a worse sentence",
+    "option2": "go to trial and risk losing everything to prove your innocence",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Find out your happiest memory was based on a lie",
+    "option2": "find out your worst memory happened for no reason at all",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Be responsible for evacuating some but not all of the people in danger",
+    "option2": "be one of the people left behind",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Let a dying wish go unfulfilled because it would hurt someone else",
+    "option2": "fulfill it and hurt them anyway",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Choose who inherits what's left after a tragedy tears your family apart",
+    "option2": "lose everything because no one could agree",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Discover the sacrifice you made for someone was never noticed",
+    "option2": "discover someone sacrificed everything for you and you never knew",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Be the last person someone trusted before everything fell apart",
+    "option2": "be the one who trusted them and got left holding the pieces",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Give up the chance to say goodbye to spare someone pain",
+    "option2": "say goodbye and give them pain they'll never forget",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Watch your reputation die while you're alive to feel it",
+    "option2": "have it ruined only after you're gone and never know",
+    "category": "Less of Two Evils"
+  },
+  {
+    "option1": "Choose mercy for someone who wronged you and be seen as weak",
+    "option2": "choose justice and be seen as cruel",
+    "category": "Less of Two Evils"
   }
 ]

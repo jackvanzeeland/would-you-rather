@@ -5,7 +5,7 @@
 # Would You Rather
 
 **A party game of impossible choices.**
-Pick a side across 7 categories, drawn from 943 curated dilemmas.
+Pick a side across 8 categories, drawn from 1,033 curated dilemmas.
 
 [![Next.js](https://img.shields.io/badge/Next.js-16-000000?logo=next.js&logoColor=white)](https://nextjs.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org)
@@ -47,19 +47,20 @@ light/dark preference.
 
 ## The question set
 
-943 dilemmas across 7 categories, each a flat `{ option1, option2, category }`
+1,033 dilemmas across 8 categories, each a flat `{ option1, option2, category }`
 object in [`data/questions.json`](data/questions.json):
 
-| Category      | Count |
-| -------------- | ----: |
-| Dating         |   192 |
-| Occupation     |   163 |
-| Friends        |   162 |
-| Deep Thoughts  |   158 |
-| Recreation     |   118 |
-| Dreams         |    80 |
-| Family         |    70 |
-| **Total**      | **943** |
+| Category           | Count |
+| ------------------- | ----: |
+| Dating              |   192 |
+| Occupation          |   163 |
+| Friends             |   162 |
+| Deep Thoughts       |   158 |
+| Recreation          |   118 |
+| Less of Two Evils   |    90 |
+| Dreams              |    80 |
+| Family              |    70 |
+| **Total**           | **1,033** |
 
 The raw source pages each category was gathered and deduplicated from are
 kept locally under `data/raw/<category>/` for provenance, but aren't

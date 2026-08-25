@@ -5,7 +5,8 @@ export type CategoryName =
   | "Dating"
   | "Occupation"
   | "Dreams"
-  | "Recreation";
+  | "Recreation"
+  | "Less of Two Evils";
 
 export interface Question {
   option1: string;

@@ -19,6 +19,7 @@ const CATEGORIES = new Set([
   "Occupation",
   "Dreams",
   "Recreation",
+  "Less of Two Evils",
 ]);
 
 const errors = [];
