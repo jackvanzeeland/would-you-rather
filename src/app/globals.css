@@ -166,6 +166,20 @@ body {
   animation: rise-in 0.4s cubic-bezier(0.16, 1, 0.3, 1) both;
 }
 
+/* Auto-advance countdown ring: sweeps from empty to full. The start offset
+   is set inline (stroke-dashoffset = circumference); duration comes from
+   AUTO_ADVANCE_MS so the sweep matches the timer. Under reduced motion the
+   ring just shows full while the same timer runs. */
+@keyframes ring-fill {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+.anim-ring {
+  animation: ring-fill 1s linear forwards;
+}
+
 @media (prefers-reduced-motion: reduce) {
   *,
   *::before,

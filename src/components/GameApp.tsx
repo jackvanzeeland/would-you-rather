@@ -10,6 +10,9 @@ import DuelStage from "./DuelStage";
 
 type Phase = "setup" | "playing";
 
+/** How long a pick stays on screen before auto-advancing to the next round. */
+export const AUTO_ADVANCE_MS = 1000;
+
 export default function GameApp() {
   const [phase, setPhase] = useState<Phase>("setup");
   const [selected, setSelected] = useState<Set<CategoryName>>(
@@ -74,10 +77,17 @@ export default function GameApp() {
     advance();
   }
 
-  function handleDecide() {
-    if (picked) return;
-    handlePick(Math.random() < 0.5 ? "option1" : "option2");
-  }
+  // Once an option is picked, move on by itself after a beat — no extra
+  // click. Cleanup covers the fast-forward paths (Enter, ring click) and
+  // leaving for settings, since both clear `picked` or `phase`.
+  useEffect(() => {
+    if (phase !== "playing" || picked === null) return;
+    const id = setTimeout(() => {
+      setRound((r) => r + 1);
+      advance();
+    }, AUTO_ADVANCE_MS);
+    return () => clearTimeout(id);
+  }, [phase, picked, advance]);
 
   useEffect(() => {
     if (phase !== "playing") return;
@@ -92,8 +102,6 @@ export default function GameApp() {
         if (!picked) handlePick("option2");
       } else if (e.key.toLowerCase() === "s") {
         if (!picked) advance();
-      } else if (e.key.toLowerCase() === "d") {
-        if (!picked) handleDecide();
       } else if (e.key === "Enter" || e.key === " ") {
         // A focused control (theme, share, settings, Next) keeps its own
         // Enter/Space activation; the shortcut only fires from the page.
@@ -135,7 +143,6 @@ export default function GameApp() {
       onPick={handlePick}
       onSkip={advance}
       onNext={handleNext}
-      onDecide={handleDecide}
       onOpenSettings={() => setPhase("setup")}
     />
   );

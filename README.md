@@ -36,8 +36,7 @@ no wrong answer — just the one you'd actually live with.
 | -------------------- | ---------------------------------------------------------------- |
 | Choose                | Click/tap a panel, or press `←` / `→` (also `1` / `2`)           |
 | Skip                  | `S`                                                                |
-| Decide for me 🎲     | `D` — flips a coin between the two sides                          |
-| Next round            | `Enter` / `Space`, once you've picked                             |
+| Next round            | Automatic, a beat after you pick — `Enter` / `Space` or the countdown ring to hurry it |
 | Share a dilemma       | The share icon — sends just the question text, never your pick   |
 | Change categories     | The gear icon, any time                                            |
 | Light / dark          | The sun/moon icon — dark by default, switch to light for outdoor play |

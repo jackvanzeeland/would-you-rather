@@ -5,9 +5,13 @@ import Image from "next/image";
 import { CATEGORY_THEMES } from "@/lib/theme";
 import { shareQuestion } from "@/lib/share";
 import type { OptionKey, Question } from "@/lib/types";
+import { AUTO_ADVANCE_MS } from "./GameApp";
 import OptionPanel from "./OptionPanel";
 import OrBadge from "./OrBadge";
 import ThemeToggle from "./ThemeToggle";
+
+const RING_RADIUS = 12;
+const RING_CIRCUMFERENCE = 2 * Math.PI * RING_RADIUS;
 
 interface Props {
   question: Question;
@@ -18,7 +22,6 @@ interface Props {
   onPick: (key: OptionKey) => void;
   onSkip: () => void;
   onNext: () => void;
-  onDecide: () => void;
   onOpenSettings: () => void;
 }
 
@@ -31,7 +34,6 @@ export default function DuelStage({
   onPick,
   onSkip,
   onNext,
-  onDecide,
   onOpenSettings,
 }: Props) {
   const theme = CATEGORY_THEMES[question.category];
@@ -164,12 +166,36 @@ export default function DuelStage({
           <button
             type="button"
             onClick={onNext}
-            className="cursor-pointer rounded-full bg-text px-8 py-3 font-display font-bold text-bg transition-transform duration-150 hover:-translate-y-0.5 focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-accent"
+            aria-label="Next question now"
+            title="Next question now"
+            className="flex h-11 cursor-pointer items-center justify-center rounded-full p-1 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-accent"
           >
-            Next round →
+            <svg width="32" height="32" viewBox="0 0 32 32" className="-rotate-90" aria-hidden>
+              <circle
+                cx="16"
+                cy="16"
+                r={RING_RADIUS}
+                stroke="var(--line)"
+                strokeWidth="3"
+                fill="none"
+              />
+              <circle
+                cx="16"
+                cy="16"
+                r={RING_RADIUS}
+                stroke={theme.accent}
+                strokeWidth="3"
+                fill="none"
+                strokeLinecap="round"
+                strokeDasharray={RING_CIRCUMFERENCE}
+                strokeDashoffset={RING_CIRCUMFERENCE}
+                className="anim-ring"
+                style={{ animationDuration: `${AUTO_ADVANCE_MS}ms` }}
+              />
+            </svg>
           </button>
         ) : (
-          <div className="flex flex-wrap items-center justify-center gap-3">
+          <div className="flex h-11 items-center justify-center">
             <button
               type="button"
               onClick={onSkip}
@@ -177,17 +203,10 @@ export default function DuelStage({
             >
               Skip this one
             </button>
-            <button
-              type="button"
-              onClick={onDecide}
-              className="cursor-pointer rounded-full border border-line px-6 py-2.5 font-semibold text-text-soft transition-colors hover:border-accent hover:text-accent focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-accent"
-            >
-              🎲 Decide for me
-            </button>
           </div>
         )}
         <p className="hidden font-mono text-xs text-text-soft/70 sm:block">
-          ← → or 1 2 to choose · S to skip · D to decide · enter for next · {poolSize} in the deck
+          ← → or 1 2 to choose · S to skip · {poolSize} in the deck
         </p>
         <p className="font-mono text-xs text-text-soft/70 sm:hidden">
           {poolSize} in the deck
