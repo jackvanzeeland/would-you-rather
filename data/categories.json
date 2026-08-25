@@ -1,9 +1,0 @@
-[
-  { "slug": "deep-thoughts", "label": "Deep Thoughts" },
-  { "slug": "family", "label": "Family" },
-  { "slug": "friends", "label": "Friends" },
-  { "slug": "dating", "label": "Dating" },
-  { "slug": "occupation", "label": "Occupation" },
-  { "slug": "dreams", "label": "Dreams" },
-  { "slug": "recreation", "label": "Recreation" }
-]

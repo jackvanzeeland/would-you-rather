@@ -1,14 +1,24 @@
 import type { Metadata, Viewport } from "next";
 import { Bricolage_Grotesque, Plus_Jakarta_Sans, IBM_Plex_Mono } from "next/font/google";
 import Script from "next/script";
+import { QUESTIONS } from "@/lib/data";
+import { CATEGORY_ORDER } from "@/lib/theme";
 import "./globals.css";
 
 // Runs before hydration so a returning visitor's saved light-mode choice
 // applies immediately — otherwise they'd see a flash of the dark default.
+// Also retints the theme-color meta so mobile browser chrome matches;
+// the meta may not be parsed yet when this runs, hence the DOM-ready retry.
 const THEME_INIT_SCRIPT = `
 try {
   if (localStorage.getItem('wyr-theme') === 'light') {
     document.documentElement.setAttribute('data-theme', 'light');
+    var setLightChrome = function () {
+      var m = document.querySelector('meta[name="theme-color"]');
+      if (m) m.setAttribute('content', '#f7f6fc');
+    };
+    setLightChrome();
+    document.addEventListener('DOMContentLoaded', setLightChrome);
   }
 } catch (e) {}
 `;
@@ -31,15 +41,22 @@ const plexMono = IBM_Plex_Mono({
   weight: ["400", "500", "600"],
 });
 
+// Prefer the stable production domain over VERCEL_URL — the latter is the
+// per-deployment host, which social scrapers may not even be able to reach
+// when deployment protection is on.
+const vercelHost =
+  process.env.VERCEL_PROJECT_PRODUCTION_URL ?? process.env.VERCEL_URL;
 const siteUrl =
   process.env.NEXT_PUBLIC_SITE_URL ??
-  (process.env.VERCEL_URL ? `https://${process.env.VERCEL_URL}` : "http://localhost:3000");
+  (vercelHost ? `https://${vercelHost}` : "http://localhost:3000");
+
+const dilemmaCount = QUESTIONS.length;
+const categoryCount = CATEGORY_ORDER.length;
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
   title: "Would You Rather",
-  description:
-    "A party game of impossible choices — 943 dilemmas across deep thoughts, family, friends, dating, work, dreams, and recreation.",
+  description: `A party game of impossible choices — ${dilemmaCount} dilemmas across deep thoughts, family, friends, dating, work, dreams, and recreation.`,
   manifest: "/manifest.webmanifest",
   icons: {
     icon: [
@@ -51,13 +68,13 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: "Would You Rather",
-    description: "Pick a side. 943 dilemmas across 7 categories.",
+    description: `Pick a side. ${dilemmaCount} dilemmas across ${categoryCount} categories.`,
     images: [{ url: "/logo.jpeg", width: 1024, height: 1024 }],
   },
   twitter: {
     card: "summary",
     title: "Would You Rather",
-    description: "Pick a side. 943 dilemmas across 7 categories.",
+    description: `Pick a side. ${dilemmaCount} dilemmas across ${categoryCount} categories.`,
     images: ["/logo.jpeg"],
   },
 };

@@ -1,6 +1,7 @@
 "use client";
 
 import Image from "next/image";
+import { QUESTIONS } from "@/lib/data";
 import { CATEGORY_ORDER, CATEGORY_THEMES } from "@/lib/theme";
 import type { CategoryName } from "@/lib/types";
 import ThemeToggle from "./ThemeToggle";
@@ -44,7 +45,7 @@ export default function CategoryPicker({
       </div>
 
       <p className="anim-rise mt-5 font-mono text-xs tracking-[0.25em] text-text-soft uppercase [animation-delay:0.05s]">
-        943 dilemmas · 7 categories
+        {QUESTIONS.length} dilemmas · {CATEGORY_ORDER.length} categories
       </p>
 
       <h1 className="anim-rise mt-4 font-display text-6xl leading-[0.95] font-extrabold tracking-tight sm:text-7xl [animation-delay:0.1s]">

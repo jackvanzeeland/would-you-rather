@@ -47,6 +47,7 @@ export default function DuelStage({
     const result = await shareQuestion(question);
     if (result === "copied") setShareNote("Copied!");
     else if (result === "failed") setShareNote("Couldn't share");
+    // "shared" and "cancelled" need no toast — the share sheet was the feedback.
   }
 
   return (
@@ -99,7 +100,10 @@ export default function DuelStage({
               </svg>
             </button>
             {shareNote && (
-              <span className="absolute top-full right-0 mt-1.5 rounded-full bg-surface px-2.5 py-1 font-mono text-[10px] whitespace-nowrap text-text-soft ring-1 ring-line">
+              <span
+                role="status"
+                className="absolute top-full right-0 mt-1.5 rounded-full bg-surface px-2.5 py-1 font-mono text-[10px] whitespace-nowrap text-text-soft ring-1 ring-line"
+              >
                 {shareNote}
               </span>
             )}
@@ -126,6 +130,12 @@ export default function DuelStage({
           </button>
         </div>
       </div>
+
+      {/* Announces each new dilemma to screen readers; the panels themselves
+          remount for the entry animation and would otherwise change silently. */}
+      <p aria-live="polite" className="sr-only">
+        Would you rather {question.option1}, or {question.option2}?
+      </p>
 
       <div className="grid flex-1 grid-rows-[1fr_auto_1fr] gap-3 sm:grid-cols-[1fr_auto_1fr] sm:grid-rows-1 sm:gap-5">
         <OptionPanel
@@ -177,7 +187,7 @@ export default function DuelStage({
           </div>
         )}
         <p className="hidden font-mono text-xs text-text-soft/70 sm:block">
-          ← → to choose · S to skip · D to decide · enter for next · {poolSize} in the deck
+          ← → or 1 2 to choose · S to skip · D to decide · enter for next · {poolSize} in the deck
         </p>
         <p className="font-mono text-xs text-text-soft/70 sm:hidden">
           {poolSize} in the deck

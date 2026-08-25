@@ -26,7 +26,12 @@ function subscribe(onChange: () => void) {
 
 function applyMode(mode: Mode) {
   document.documentElement.setAttribute("data-theme", mode);
-  window.localStorage.setItem(STORAGE_KEY, mode);
+  try {
+    window.localStorage.setItem(STORAGE_KEY, mode);
+  } catch {
+    // Storage can be blocked (private mode, cookie blocking) — the theme
+    // still applies for this visit, it just won't persist.
+  }
   document.querySelector('meta[name="theme-color"]')?.setAttribute("content", THEME_COLOR[mode]);
 }
 

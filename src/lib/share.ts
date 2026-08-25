@@ -1,6 +1,6 @@
 import type { Question } from "./types";
 
-export type ShareResult = "shared" | "copied" | "failed";
+export type ShareResult = "shared" | "cancelled" | "copied" | "failed";
 
 function shareText(q: Question): string {
   return `Would you rather ${q.option1}, or ${q.option2}? 🤔`;
@@ -18,9 +18,14 @@ export async function shareQuestion(q: Question): Promise<ShareResult> {
     try {
       await navigator.share({ text, title: "Would You Rather" });
       return "shared";
-    } catch {
-      // User cancelled the share sheet, or the API rejected — fall through
-      // to clipboard so the action still does something useful.
+    } catch (err) {
+      // A dismissed share sheet is a choice, not a failure — don't touch
+      // the clipboard for it.
+      if (err instanceof DOMException && err.name === "AbortError") {
+        return "cancelled";
+      }
+      // The API rejected for real — fall through to clipboard so the
+      // action still does something useful.
     }
   }
 

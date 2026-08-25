@@ -1,0 +1,20 @@
+- generic [active] [ref=f10e1]:
+  - generic [ref=f10e34]:
+    - generic [ref=f10e35]:
+      - generic [ref=f10e36]: Friends
+      - generic [ref=f10e39]:
+        - generic [ref=f10e40]: round 02
+        - button "Switch to light mode" [ref=f10e41] [cursor=pointer]
+        - button "Share this dilemma" [ref=f10e46] [cursor=pointer]
+        - button "Change categories" [ref=f10e50] [cursor=pointer]
+    - paragraph [ref=f10e54]: Would you rather throw the party of the year at your place, risking it getting out of hand, or crash a party where you barely know anyone?
+    - generic [ref=f10e55]:
+      - button "throw the party of the year at your place, risking it getting out of hand" [ref=f10e70] [cursor=pointer]
+      - generic [ref=f10e58]: OR
+      - button "crash a party where you barely know anyone" [ref=f10e74] [cursor=pointer]
+    - generic [ref=f10e63]:
+      - generic [ref=f10e76]:
+        - button "Skip this one" [ref=f10e77] [cursor=pointer]
+        - button "🎲 Decide for me" [ref=f10e78] [cursor=pointer]
+      - paragraph [ref=f10e67]: ← → or 1 2 to choose · S to skip · D to decide · enter for next · 943 in the deck
+  - alert [ref=f10e33]

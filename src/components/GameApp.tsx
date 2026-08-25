@@ -31,13 +31,20 @@ export default function GameApp() {
   const advance = useCallback(() => {
     if (pool.length === 0) return;
     if (queueRef.current.length === 0) {
-      queueRef.current = shuffle(pool);
+      const deck = shuffle(pool);
+      // A fresh deck contains the question still on screen — make sure it
+      // isn't the very next card, or it would show twice in a row.
+      if (deck.length > 1 && deck[deck.length - 1] === current) {
+        const j = Math.floor(Math.random() * (deck.length - 1));
+        [deck[deck.length - 1], deck[j]] = [deck[j], deck[deck.length - 1]];
+      }
+      queueRef.current = deck;
     }
     const next = queueRef.current.pop() ?? null;
     setCurrent(next);
     setPicked(null);
     setEntryKey((k) => k + 1);
-  }, [pool]);
+  }, [pool, current]);
 
   function toggleCategory(name: CategoryName) {
     setSelected((prev) => {
@@ -53,17 +60,18 @@ export default function GameApp() {
     queueRef.current = shuffle(pool);
     setRound(0);
     setHasPlayedBefore(true);
-    const next = queueRef.current.pop() ?? null;
-    setCurrent(next);
-    setPicked(null);
-    setEntryKey((k) => k + 1);
     setPhase("playing");
+    advance();
   }
 
   function handlePick(key: OptionKey) {
     if (picked) return;
     setPicked(key);
+  }
+
+  function handleNext() {
     setRound((r) => r + 1);
+    advance();
   }
 
   function handleDecide() {
@@ -75,6 +83,9 @@ export default function GameApp() {
     if (phase !== "playing") return;
 
     function onKeyDown(e: KeyboardEvent) {
+      // Leave browser chords (⌘S, ⌘D, ⌘1…) alone.
+      if (e.metaKey || e.ctrlKey || e.altKey) return;
+
       if (e.key === "ArrowLeft" || e.key === "1") {
         if (!picked) handlePick("option1");
       } else if (e.key === "ArrowRight" || e.key === "2") {
@@ -84,9 +95,13 @@ export default function GameApp() {
       } else if (e.key.toLowerCase() === "d") {
         if (!picked) handleDecide();
       } else if (e.key === "Enter" || e.key === " ") {
+        // A focused control (theme, share, settings, Next) keeps its own
+        // Enter/Space activation; the shortcut only fires from the page.
+        const target = e.target as HTMLElement | null;
+        if (target?.closest("button, a, input, select, textarea, [role='button']")) return;
         if (picked) {
           e.preventDefault();
-          advance();
+          handleNext();
         }
       }
     }
@@ -119,7 +134,7 @@ export default function GameApp() {
       entryKey={entryKey}
       onPick={handlePick}
       onSkip={advance}
-      onNext={advance}
+      onNext={handleNext}
       onDecide={handleDecide}
       onOpenSettings={() => setPhase("setup")}
     />

@@ -23,9 +23,15 @@ while IFS= read -r f; do
   BODY="${BODY}  - ${f}"$'\n'
 done <<< "$CHANGED_FILES"
 
+# Git output can contain quotes/newlines — build error JSON with jq so it
+# stays parseable.
+emit_error() {
+  jq -cn --arg msg "$1" '{hookEventName: "Stop", error: $msg}'
+}
+
 COMMIT_OUTPUT=$(git commit -m "$(printf 'Auto-commit: %s file(s) changed\n\n%s\n\nCo-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>' "$FILE_COUNT" "$BODY")" 2>&1)
 if [ $? -ne 0 ]; then
-  echo "{\"hookEventName\":\"Stop\",\"error\":\"auto-commit failed: $COMMIT_OUTPUT\"}"
+  emit_error "auto-commit failed: $COMMIT_OUTPUT"
   exit 1
 fi
 
@@ -45,6 +51,6 @@ else
 fi
 
 if [ $? -ne 0 ]; then
-  echo "{\"hookEventName\":\"Stop\",\"error\":\"auto-push failed: $PUSH_OUTPUT\"}"
+  emit_error "auto-push failed: $PUSH_OUTPUT"
   exit 1
 fi

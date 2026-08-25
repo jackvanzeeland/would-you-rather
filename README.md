@@ -87,7 +87,6 @@ Open [http://localhost:3000](http://localhost:3000).
 ```
 data/
   questions.json        the full question set (single source of truth)
-  categories.json        the 7 canonical category labels
   raw/<category>/        gathered source pages, kept locally, not committed
 
 src/
