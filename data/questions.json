@@ -1,0 +1,4717 @@
+[
+  {
+    "option1": "Stay in for every date night",
+    "option2": "go out for every date night",
+    "category": "Dating"
+  },
+  {
+    "option1": "Do one hobby together for life",
+    "option2": "never do the same activity together twice",
+    "category": "Dating"
+  },
+  {
+    "option1": "Be with a partner who never shares their feelings",
+    "option2": "be with a partner who overshares everything",
+    "category": "Dating"
+  },
+  {
+    "option1": "Have your partner's friends disapprove of you",
+    "option2": "have your friends dislike your partner",
+    "category": "Dating"
+  },
+  {
+    "option1": "Have a partner who shares your taste in food",
+    "option2": "have a partner who shares your taste in music",
+    "category": "Dating"
+  },
+  {
+    "option1": "Have a partner who gives great gifts",
+    "option2": "have a partner who gives great compliments",
+    "category": "Dating"
+  },
+  {
+    "option1": "Have a partner who's a great listener",
+    "option2": "have a partner who gives great advice",
+    "category": "Dating"
+  },
+  {
+    "option1": "Be with someone spontaneous",
+    "option2": "be with someone who plans everything",
+    "category": "Dating"
+  },
+  {
+    "option1": "Be with someone who loves PDA",
+    "option2": "be with someone who won't even hold your hand in public",
+    "category": "Dating"
+  },
+  {
+    "option1": "Cook every night while your partner cleans",
+    "option2": "clean every night while your partner cooks",
+    "category": "Dating"
+  },
+  {
+    "option1": "Take turns picking up the whole bill on dates",
+    "option2": "always split the bill 50/50",
+    "category": "Dating"
+  },
+  {
+    "option1": "Have a partner who's super romantic",
+    "option2": "have a partner who's super practical",
+    "category": "Dating"
+  },
+  {
+    "option1": "Outlive your partner",
+    "option2": "have your partner outlive you",
+    "category": "Dating"
+  },
+  {
+    "option1": "Have no kids together",
+    "option2": "have at least five kids together",
+    "category": "Dating"
+  },
+  {
+    "option1": "Be a stay-at-home parent",
+    "option2": "be a working parent",
+    "category": "Dating"
+  },
+  {
+    "option1": "Live near your family",
+    "option2": "live near your friends",
+    "category": "Dating"
+  },
+  {
+    "option1": "Travel the world together but never have a permanent home",
+    "option2": "live in your dream house but never travel abroad",
+    "category": "Dating"
+  },
+  {
+    "option1": "Move in together before marriage",
+    "option2": "wait until after you're married to move in",
+    "category": "Dating"
+  },
+  {
+    "option1": "Have your partner protect your feelings with a white lie",
+    "option2": "have your partner always be brutally honest",
+    "category": "Dating"
+  },
+  {
+    "option1": "Have a joint bank account with your partner",
+    "option2": "keep separate bank accounts",
+    "category": "Dating"
+  },
+  {
+    "option1": "Split expenses with your partner based on income",
+    "option2": "split expenses 50/50",
+    "category": "Dating"
+  },
+  {
+    "option1": "Have a partner who supports you in everything",
+    "option2": "have a partner who challenges you to improve",
+    "category": "Dating"
+  },
+  {
+    "option1": "Receive a flirty selfie from your partner",
+    "option2": "receive an intimate handwritten message",
+    "category": "Dating"
+  },
+  {
+    "option1": "Have your partner kiss your lips",
+    "option2": "have your partner kiss your neck",
+    "category": "Dating"
+  },
+  {
+    "option1": "Take a relaxing bath together",
+    "option2": "take a long, hot shower together",
+    "category": "Dating"
+  },
+  {
+    "option1": "Share a picnic on the beach at sunset",
+    "option2": "share a picnic by a fireplace in a cabin",
+    "category": "Dating"
+  },
+  {
+    "option1": "Be kissed passionately",
+    "option2": "be kissed gently and tenderly",
+    "category": "Dating"
+  },
+  {
+    "option1": "Have your partner whisper sweet things to you",
+    "option2": "have your partner leave you cute notes throughout the day",
+    "category": "Dating"
+  },
+  {
+    "option1": "Be the little spoon",
+    "option2": "be the big spoon",
+    "category": "Dating"
+  },
+  {
+    "option1": "Have your partner use a corny pick-up line",
+    "option2": "have your partner use a romantic pick-up line",
+    "category": "Dating"
+  },
+  {
+    "option1": "Get a flirty text from your partner every morning",
+    "option2": "get a flirty phone call from your partner every night",
+    "category": "Dating"
+  },
+  {
+    "option1": "Wear matching couple outfits every day",
+    "option2": "never wear color again",
+    "category": "Dating"
+  },
+  {
+    "option1": "Have your partner steal the last of your fries",
+    "option2": "have your partner steal the last bite of your dessert",
+    "category": "Dating"
+  },
+  {
+    "option1": "Wear pajamas to your wedding",
+    "option2": "wear formalwear to a coffee shop date",
+    "category": "Dating"
+  },
+  {
+    "option1": "Have a partner who can't cook at all",
+    "option2": "have a partner who overcooks everything",
+    "category": "Dating"
+  },
+  {
+    "option1": "Go a month without Wi-Fi",
+    "option2": "go a month without your partner",
+    "category": "Dating"
+  },
+  {
+    "option1": "Date someone who talks in their sleep",
+    "option2": "date someone who snores like a chainsaw",
+    "category": "Dating"
+  },
+  {
+    "option1": "Have a surprise date planned for you",
+    "option2": "plan a surprise date for your partner",
+    "category": "Dating"
+  },
+  {
+    "option1": "Randomly receive fresh flowers from your partner",
+    "option2": "randomly receive your favorite candy and snacks",
+    "category": "Dating"
+  },
+  {
+    "option1": "Tell your partner you love them first",
+    "option2": "have your partner tell you first",
+    "category": "Dating"
+  },
+  {
+    "option1": "Celebrate anniversaries with a big date",
+    "option2": "celebrate anniversaries with a thoughtful gift",
+    "category": "Dating"
+  },
+  {
+    "option1": "Have a public proposal",
+    "option2": "have a private proposal",
+    "category": "Dating"
+  },
+  {
+    "option1": "Have your dream wedding",
+    "option2": "have your dream honeymoon",
+    "category": "Dating"
+  },
+  {
+    "option1": "Go on a couples retreat on an island",
+    "option2": "go on a couples retreat in the mountains",
+    "category": "Dating"
+  },
+  {
+    "option1": "Have your partner serenade you",
+    "option2": "dance with your partner to your favorite song",
+    "category": "Dating"
+  },
+  {
+    "option1": "Be surprised with breakfast in bed",
+    "option2": "be surprised with a romantic dinner",
+    "category": "Dating"
+  },
+  {
+    "option1": "Have a couples photoshoot",
+    "option2": "have a custom painting made of you two",
+    "category": "Dating"
+  },
+  {
+    "option1": "Kiss your partner in the rain",
+    "option2": "kiss your partner under the stars",
+    "category": "Dating"
+  },
+  {
+    "option1": "Accidentally send a flirty text to your partner's parents",
+    "option2": "accidentally send a flirty text to your partner's boss",
+    "category": "Dating"
+  },
+  {
+    "option1": "Go on a blind date set up by your coworker",
+    "option2": "go on a blind date set up by your mom",
+    "category": "Dating"
+  },
+  {
+    "option1": "Have the ability to read your partner's mind",
+    "option2": "have your partner read yours",
+    "category": "Dating"
+  },
+  {
+    "option1": "Spend a romantic evening under the stars",
+    "option2": "spend a cozy night in with candles and music",
+    "category": "Dating"
+  },
+  {
+    "option1": "Receive a passionate kiss in public",
+    "option2": "receive a sweet love note in private",
+    "category": "Dating"
+  },
+  {
+    "option1": "Have a spontaneous weekend getaway",
+    "option2": "meticulously plan a romantic date night",
+    "category": "Dating"
+  },
+  {
+    "option1": "Snuggle on the couch for a movie night",
+    "option2": "sway together under the moonlit sky",
+    "category": "Dating"
+  },
+  {
+    "option1": "Whisper sweet nothings to each other",
+    "option2": "have a profound, heart-to-heart conversation",
+    "category": "Dating"
+  },
+  {
+    "option1": "Cook a romantic dinner together",
+    "option2": "have a candlelit dinner at your favorite restaurant",
+    "category": "Dating"
+  },
+  {
+    "option1": "Send flirty text messages all day",
+    "option2": "leave little surprise love notes around the house",
+    "category": "Dating"
+  },
+  {
+    "option1": "Have a playful pillow fight",
+    "option2": "have a tickle war",
+    "category": "Dating"
+  },
+  {
+    "option1": "Give each other relaxing massages",
+    "option2": "take a bubble bath together",
+    "category": "Dating"
+  },
+  {
+    "option1": "Dress up in fancy attire for date night",
+    "option2": "stay casual and comfortable for date night",
+    "category": "Dating"
+  },
+  {
+    "option1": "Write each other a love poem",
+    "option2": "sing each other a love song",
+    "category": "Dating"
+  },
+  {
+    "option1": "Have a long, passionate kiss",
+    "option2": "have a series of quick, teasing kisses",
+    "category": "Dating"
+  },
+  {
+    "option1": "Spend a day at a romantic spa retreat",
+    "option2": "take an adventurous road trip together",
+    "category": "Dating"
+  },
+  {
+    "option1": "Have breakfast in bed",
+    "option2": "have a surprise breakfast date at your favorite cafe",
+    "category": "Dating"
+  },
+  {
+    "option1": "Exchange flirty compliments all day",
+    "option2": "give each other flirty looks from across the room",
+    "category": "Dating"
+  },
+  {
+    "option1": "Take a salsa dancing class together",
+    "option2": "learn a brand-new dance style together",
+    "category": "Dating"
+  },
+  {
+    "option1": "Have a playful food fight with whipped cream and chocolate sauce",
+    "option2": "feed each other strawberries and chocolate",
+    "category": "Dating"
+  },
+  {
+    "option1": "Experience the highest highs and lowest lows with your partner",
+    "option2": "have a stable but less exciting relationship",
+    "category": "Dating"
+  },
+  {
+    "option1": "Have a partner who's a great cook but a poor communicator",
+    "option2": "have a partner who can't cook but communicates wonderfully",
+    "category": "Dating"
+  },
+  {
+    "option1": "Achieve financial success but sacrifice time together",
+    "option2": "have less money but more quality time together",
+    "category": "Dating"
+  },
+  {
+    "option1": "Resolve conflicts through passionate arguments",
+    "option2": "resolve conflicts through calm discussions",
+    "category": "Dating"
+  },
+  {
+    "option1": "Be with someone who shares all your interests",
+    "option2": "be with someone who introduces you to new hobbies",
+    "category": "Dating"
+  },
+  {
+    "option1": "Have a partner who remembers every small detail",
+    "option2": "have a partner who surprises you with romantic gestures",
+    "category": "Dating"
+  },
+  {
+    "option1": "Revisit cherished memories from your past together",
+    "option2": "create new memories as a couple",
+    "category": "Dating"
+  },
+  {
+    "option1": "Have a partner who always supports your dreams",
+    "option2": "have a partner who pursues their own success alongside you",
+    "category": "Dating"
+  },
+  {
+    "option1": "Have a long-distance relationship with occasional visits",
+    "option2": "be physically close but have demanding careers that limit your time together",
+    "category": "Dating"
+  },
+  {
+    "option1": "Have a partner who's an open book about their past",
+    "option2": "have a partner who keeps some of their history private",
+    "category": "Dating"
+  },
+  {
+    "option1": "Prioritize personal growth even if you grow apart sometimes",
+    "option2": "prioritize togetherness even if you stagnate personally",
+    "category": "Dating"
+  },
+  {
+    "option1": "Face a big life challenge together as a couple",
+    "option2": "tackle it separately and reconvene after",
+    "category": "Dating"
+  },
+  {
+    "option1": "Receive love through words of affirmation",
+    "option2": "receive love through acts of service",
+    "category": "Dating"
+  },
+  {
+    "option1": "Have a partner who's incredibly similar to you",
+    "option2": "have a partner who complements you with opposite traits",
+    "category": "Dating"
+  },
+  {
+    "option1": "Travel the world with your partner",
+    "option2": "build a cozy home together in one place",
+    "category": "Dating"
+  },
+  {
+    "option1": "Get a surprise romantic gesture every week",
+    "option2": "get one big surprise party once a year",
+    "category": "Dating"
+  },
+  {
+    "option1": "Have a fancy restaurant date night",
+    "option2": "have a cozy homemade dinner at home",
+    "category": "Dating"
+  },
+  {
+    "option1": "Be a dog parent with your partner",
+    "option2": "be a cat parent with your partner",
+    "category": "Dating"
+  },
+  {
+    "option1": "Have a quiet movie night in with your partner",
+    "option2": "have a night out at the theater",
+    "category": "Dating"
+  },
+  {
+    "option1": "Get a heartfelt love letter from your partner",
+    "option2": "get a thoughtful gift from your partner",
+    "category": "Dating"
+  },
+  {
+    "option1": "Have a long, deep conversation with your partner every night",
+    "option2": "enjoy comfortable silence together",
+    "category": "Dating"
+  },
+  {
+    "option1": "Cook a meal together",
+    "option2": "order takeout from your favorite restaurant",
+    "category": "Dating"
+  },
+  {
+    "option1": "Have a small, intimate wedding",
+    "option2": "have a grand celebration with friends and family",
+    "category": "Dating"
+  },
+  {
+    "option1": "Explore a new hobby together",
+    "option2": "stick to your individual interests",
+    "category": "Dating"
+  },
+  {
+    "option1": "Have a weekly board game night",
+    "option2": "have a weekly movie night",
+    "category": "Dating"
+  },
+  {
+    "option1": "Get a back massage from your partner",
+    "option2": "get a foot massage from your partner",
+    "category": "Dating"
+  },
+  {
+    "option1": "Get a hug from your partner",
+    "option2": "cuddle on the couch with your partner",
+    "category": "Dating"
+  },
+  {
+    "option1": "Sit together on a porch swing",
+    "option2": "ride a Ferris wheel together",
+    "category": "Dating"
+  },
+  {
+    "option1": "Send playful texts all day",
+    "option2": "talk on the phone late at night",
+    "category": "Dating"
+  },
+  {
+    "option1": "Get a compatibility chart done together",
+    "option2": "get a psychic reading together",
+    "category": "Dating"
+  },
+  {
+    "option1": "Receive a flirty wink from your partner",
+    "option2": "play footsie under the table at dinner",
+    "category": "Dating"
+  },
+  {
+    "option1": "Gaze at the stars together",
+    "option2": "gaze at each other",
+    "category": "Dating"
+  },
+  {
+    "option1": "Share chocolate-covered strawberries",
+    "option2": "share a box of fancy chocolates",
+    "category": "Dating"
+  },
+  {
+    "option1": "Slow dance together",
+    "option2": "sing a duet together",
+    "category": "Dating"
+  },
+  {
+    "option1": "Sit by a campfire together",
+    "option2": "hold hands at the movies",
+    "category": "Dating"
+  },
+  {
+    "option1": "Watch a sunrise together",
+    "option2": "watch a sunset together",
+    "category": "Dating"
+  },
+  {
+    "option1": "Share a blanket together",
+    "option2": "share a sleeping bag together",
+    "category": "Dating"
+  },
+  {
+    "option1": "Be best friends who become lovers",
+    "option2": "be lovers who become best friends",
+    "category": "Dating"
+  },
+  {
+    "option1": "Have your partner write you a love poem",
+    "option2": "have your partner sing you a love song",
+    "category": "Dating"
+  },
+  {
+    "option1": "Get a piece of jewelry for your anniversary",
+    "option2": "get a room makeover for your anniversary",
+    "category": "Dating"
+  },
+  {
+    "option1": "Spend a holiday alone with your partner",
+    "option2": "spend a holiday with family",
+    "category": "Dating"
+  },
+  {
+    "option1": "Go to your high school reunion alone",
+    "option2": "go to your high school reunion together",
+    "category": "Dating"
+  },
+  {
+    "option1": "Tell your partner a white lie to spare their feelings",
+    "option2": "blurt out the truth to your partner",
+    "category": "Dating"
+  },
+  {
+    "option1": "Forgive your partner quickly",
+    "option2": "harbor a grudge",
+    "category": "Dating"
+  },
+  {
+    "option1": "Take a spontaneous trip with your partner",
+    "option2": "plan every detail of the trip together",
+    "category": "Dating"
+  },
+  {
+    "option1": "Spend the evening cuddling on the couch",
+    "option2": "spend the evening painting the town red",
+    "category": "Dating"
+  },
+  {
+    "option1": "Live with your partner before marriage",
+    "option2": "wait until after marriage to live together",
+    "category": "Dating"
+  },
+  {
+    "option1": "Tell your partner your darkest secret",
+    "option2": "never know your partner's darkest secret",
+    "category": "Dating"
+  },
+  {
+    "option1": "Write your own wedding vows",
+    "option2": "copy your wedding vows from a website",
+    "category": "Dating"
+  },
+  {
+    "option1": "Serenade your partner yourself",
+    "option2": "hire musicians to serenade your partner",
+    "category": "Dating"
+  },
+  {
+    "option1": "Surprise your partner with rose petals leading to the bedroom",
+    "option2": "greet your partner at the door with champagne",
+    "category": "Dating"
+  },
+  {
+    "option1": "Come home to dinner already on the table",
+    "option2": "be taken out to your favorite restaurant",
+    "category": "Dating"
+  },
+  {
+    "option1": "Spend the day being pampered at a spa together",
+    "option2": "spend the day working out at the gym together",
+    "category": "Dating"
+  },
+  {
+    "option1": "Spend the evening playing a video game together",
+    "option2": "spend the evening cuddled up reading a book",
+    "category": "Dating"
+  },
+  {
+    "option1": "Go to a jazz club together",
+    "option2": "go to a rock concert together",
+    "category": "Dating"
+  },
+  {
+    "option1": "Slow dance to soft music",
+    "option2": "dance wildly to retro disco music",
+    "category": "Dating"
+  },
+  {
+    "option1": "Read poetry together",
+    "option2": "go sailing together",
+    "category": "Dating"
+  },
+  {
+    "option1": "Read a romantic story together",
+    "option2": "write your own love story together",
+    "category": "Dating"
+  },
+  {
+    "option1": "Have kids with your partner",
+    "option2": "have pets with your partner",
+    "category": "Dating"
+  },
+  {
+    "option1": "Live in your partner's hometown",
+    "option2": "live in your own hometown",
+    "category": "Dating"
+  },
+  {
+    "option1": "Retire to a cabin in the mountains with your partner",
+    "option2": "retire to a penthouse in the city with your partner",
+    "category": "Dating"
+  },
+  {
+    "option1": "Leave the world with money saved",
+    "option2": "check every item off your bucket list together but go broke",
+    "category": "Dating"
+  },
+  {
+    "option1": "Recreate your favorite vacation with your partner",
+    "option2": "explore a brand-new destination together",
+    "category": "Dating"
+  },
+  {
+    "option1": "Have your partner sing you to sleep",
+    "option2": "have your partner tell you a bedtime story",
+    "category": "Dating"
+  },
+  {
+    "option1": "Build a snowman with your partner",
+    "option2": "make snow angels beside your partner",
+    "category": "Dating"
+  },
+  {
+    "option1": "Go out for dinner on a first date",
+    "option2": "have breakfast in bed on a first date",
+    "category": "Dating"
+  },
+  {
+    "option1": "Fight for love",
+    "option2": "fight for money",
+    "category": "Dating"
+  },
+  {
+    "option1": "Lose every board game to your partner forever",
+    "option2": "never be allowed to trash talk your partner again",
+    "category": "Dating"
+  },
+  {
+    "option1": "Have your inside joke tattooed somewhere tiny",
+    "option2": "explain your inside joke to strangers once a week",
+    "category": "Dating"
+  },
+  {
+    "option1": "Communicate only in voice notes for a day",
+    "option2": "communicate only in GIFs for a day",
+    "category": "Dating"
+  },
+  {
+    "option1": "Let your partner pick the movie for a month",
+    "option2": "let your partner pick the snacks for a month",
+    "category": "Dating"
+  },
+  {
+    "option1": "Always be 20 minutes early together",
+    "option2": "sprint into everything 5 minutes late together",
+    "category": "Dating"
+  },
+  {
+    "option1": "Have one couple nickname everyone knows",
+    "option2": "have one private nickname nobody ever hears",
+    "category": "Dating"
+  },
+  {
+    "option1": "Win trivia night as a couple",
+    "option2": "cause chaos at karaoke as a couple",
+    "category": "Dating"
+  },
+  {
+    "option1": "Have a couple playlist made by your partner",
+    "option2": "have a surprise date planned by your partner",
+    "category": "Dating"
+  },
+  {
+    "option1": "Flirt only through memes",
+    "option2": "flirt only through terrible pickup lines",
+    "category": "Dating"
+  },
+  {
+    "option1": "Recreate your first date",
+    "option2": "plan a date that feels nothing like your usual style",
+    "category": "Dating"
+  },
+  {
+    "option1": "Get handwritten notes from your partner",
+    "option2": "get spontaneous voice notes from your partner",
+    "category": "Dating"
+  },
+  {
+    "option1": "Cuddle for an hour",
+    "option2": "hold hands for an entire walk",
+    "category": "Dating"
+  },
+  {
+    "option1": "Have one huge romantic anniversary each year",
+    "option2": "have tiny romantic rituals every week",
+    "category": "Dating"
+  },
+  {
+    "option1": "Have your partner brag about you in public",
+    "option2": "have your partner praise you privately",
+    "category": "Dating"
+  },
+  {
+    "option1": "Spend one perfect weekend away together",
+    "option2": "spend ten cozy, ordinary Sundays at home together",
+    "category": "Dating"
+  },
+  {
+    "option1": "Get flowers from your partner randomly",
+    "option2": "get your favorite snack delivered at the perfect moment",
+    "category": "Dating"
+  },
+  {
+    "option1": "Slow dance in the living room",
+    "option2": "make out during the movie credits",
+    "category": "Dating"
+  },
+  {
+    "option1": "Hear your partner say \"I'm proud of you\" more often",
+    "option2": "hear your partner say \"I missed you\" more often",
+    "category": "Dating"
+  },
+  {
+    "option1": "Have your partner remember every big milestone",
+    "option2": "have your partner remember every tiny detail",
+    "category": "Dating"
+  },
+  {
+    "option1": "Get one long love letter from your partner",
+    "option2": "get thirty tiny love notes over a month",
+    "category": "Dating"
+  },
+  {
+    "option1": "Be surprised by a spontaneous date",
+    "option2": "help plan a date that's exactly your vibe",
+    "category": "Dating"
+  },
+  {
+    "option1": "Be with someone who comforts you instantly",
+    "option2": "be with someone who challenges you honestly",
+    "category": "Dating"
+  },
+  {
+    "option1": "Talk about your childhood with your partner for an hour",
+    "option2": "talk about your future with your partner for an hour",
+    "category": "Dating"
+  },
+  {
+    "option1": "Talk through conflict with your partner right away",
+    "option2": "cool off and come back to it later",
+    "category": "Dating"
+  },
+  {
+    "option1": "Split chores by preference",
+    "option2": "rotate all chores evenly",
+    "category": "Dating"
+  },
+  {
+    "option1": "Live close to family",
+    "option2": "live farther away with more independence",
+    "category": "Dating"
+  },
+  {
+    "option1": "Have a highly structured week with your partner",
+    "option2": "have lots of spontaneous plans with your partner",
+    "category": "Dating"
+  },
+  {
+    "option1": "Have a partner who's brutally honest",
+    "option2": "have a partner who's carefully diplomatic",
+    "category": "Dating"
+  },
+  {
+    "option1": "Host people often as a couple",
+    "option2": "keep your home mostly to yourselves",
+    "category": "Dating"
+  },
+  {
+    "option1": "Have separate friend groups that overlap a little",
+    "option2": "have one big shared social circle",
+    "category": "Dating"
+  },
+  {
+    "option1": "Have one shared hobby you keep forever",
+    "option2": "keep discovering new hobbies together",
+    "category": "Dating"
+  },
+  {
+    "option1": "Apologize first easily",
+    "option2": "need time before you can apologize",
+    "category": "Dating"
+  },
+  {
+    "option1": "Have clear rules in your relationship",
+    "option2": "have a lot of flexibility in your relationship",
+    "category": "Dating"
+  },
+  {
+    "option1": "Spend holidays with family every year",
+    "option2": "invent your own traditions as a couple",
+    "category": "Dating"
+  },
+  {
+    "option1": "Flirt with your partner all day over text",
+    "option2": "save all your flirting for in person",
+    "category": "Dating"
+  },
+  {
+    "option1": "Kiss your partner first thing in the morning",
+    "option2": "kiss your partner last thing at night",
+    "category": "Dating"
+  },
+  {
+    "option1": "Get a good morning selfie from your partner",
+    "option2": "get a goodnight voice note from your partner",
+    "category": "Dating"
+  },
+  {
+    "option1": "Have a 10-minute call with your partner every day",
+    "option2": "have one long, no-distractions call every week",
+    "category": "Dating"
+  },
+  {
+    "option1": "Send each other random photos all day",
+    "option2": "send one meaningful update at night",
+    "category": "Dating"
+  },
+  {
+    "option1": "Play a question game over text with your partner",
+    "option2": "watch something together on a video call",
+    "category": "Dating"
+  },
+  {
+    "option1": "Fall asleep on a call with your partner",
+    "option2": "wake up to a surprise message from your partner",
+    "category": "Dating"
+  },
+  {
+    "option1": "Have a shared playlist you keep adding to together",
+    "option2": "have a notes app full of date ideas together",
+    "category": "Dating"
+  },
+  {
+    "option1": "Share your location with your partner for convenience",
+    "option2": "keep the mystery and just communicate well",
+    "category": "Dating"
+  },
+  {
+    "option1": "Go on a surprise weekend getaway",
+    "option2": "plan every detail of your next trip together",
+    "category": "Dating"
+  },
+  {
+    "option1": "Have matching pajamas with your partner",
+    "option2": "have matching tattoos with your partner",
+    "category": "Dating"
+  },
+  {
+    "option1": "Take dance lessons together",
+    "option2": "take cooking classes together",
+    "category": "Dating"
+  },
+  {
+    "option1": "Have a themed date night every week",
+    "option2": "try a new restaurant every week",
+    "category": "Dating"
+  },
+  {
+    "option1": "Have a partner who's always 10 minutes early",
+    "option2": "have a partner who's always 10 minutes late",
+    "category": "Dating"
+  },
+  {
+    "option1": "Be on a couple's game show together",
+    "option2": "be on a reality dating show together",
+    "category": "Dating"
+  },
+  {
+    "option1": "Only be able to kiss during rainstorms",
+    "option2": "only be able to kiss during snowstorms",
+    "category": "Dating"
+  },
+  {
+    "option1": "Exchange love letters with your partner",
+    "option2": "record video messages for each other every day",
+    "category": "Dating"
+  },
+  {
+    "option1": "Win a couple's costume contest",
+    "option2": "win a couple's karaoke battle",
+    "category": "Dating"
+  },
+  {
+    "option1": "Understand exactly what your partner is feeling",
+    "option2": "have your partner understand exactly what you're feeling",
+    "category": "Dating"
+  },
+  {
+    "option1": "Grow old in the same hometown together",
+    "option2": "move around the world together every few years",
+    "category": "Dating"
+  },
+  {
+    "option1": "Face a tough challenge as a team with your partner",
+    "option2": "avoid the challenge but go through hard times alone",
+    "category": "Dating"
+  },
+  {
+    "option1": "Be loved deeply by one person",
+    "option2": "be liked by many people",
+    "category": "Dating"
+  },
+  {
+    "option1": "Hear your partner say \"I'm proud of you\"",
+    "option2": "hear your partner say \"I believe in you\"",
+    "category": "Dating"
+  },
+  {
+    "option1": "change the past",
+    "option2": "see into the future",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "live a lifetime of happiness but remember none of it",
+    "option2": "live a life with some happiness and some sorrow but remember all of it",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "be universally loved but have no close relationships",
+    "option2": "be universally disliked but have one deep, fulfilling relationship",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "know all the mysteries of the universe",
+    "option2": "know every outcome of every choice you make",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "live one life that lasts 1,000 years",
+    "option2": "live 10 lives that each last 100 years",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "always know the truth no matter how painful",
+    "option2": "live a comfortable life shrouded in ignorance",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "fight for what you believe in and risk everything",
+    "option2": "live a life of security but against your principles",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "experience life from the start as someone else",
+    "option2": "just start your own life over again",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "have absolute peace but no progress",
+    "option2": "have constant conflict but significant progress",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "have a life of extraordinary achievement and recognition but die young",
+    "option2": "live an average life but live to old age",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "live in a world without borders",
+    "option2": "live in a world without poverty",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "have no friends but be incredibly talented",
+    "option2": "have many friends but be only average in skill",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "be famous in your lifetime but forgotten after death",
+    "option2": "be unknown in your lifetime but famous after death",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "live in a world with no problems",
+    "option2": "live in a world where you rule",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "never experience physical pain again",
+    "option2": "never experience emotional pain again",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "be the richest person alive",
+    "option2": "be immortal",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "have a perfect memory",
+    "option2": "have an extraordinary IQ",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "be feared by everyone",
+    "option2": "be loved by everyone",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "travel the world but never be able to return home",
+    "option2": "stay in your hometown for the rest of your life",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "have the power to eliminate all problems in the world but be poor yourself",
+    "option2": "be the richest person in the world but unable to help anyone else",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "lose all of your memories",
+    "option2": "never be able to create new ones",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "have the power to end all suffering but live a short life",
+    "option2": "live forever but be unable to affect the world in any way",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "live a short, exhilarating life",
+    "option2": "live a long, boring one",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "carry a lifetime of regret",
+    "option2": "endure a single moment of extreme embarrassment",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "be remembered for something you didn't do",
+    "option2": "be forgotten for something you did",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "be universally respected",
+    "option2": "have unlimited power",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "experience the world through the eyes of a child forever",
+    "option2": "always carry the wisdom of an elder",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "have a perfect life inside a virtual reality",
+    "option2": "have an average life in the real world",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "never be able to express your ideas",
+    "option2": "have all your ideas ridiculed",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "be able to see one year into your own future",
+    "option2": "be able to change any one decision from your past",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "lose all of your material possessions",
+    "option2": "lose all of your memories",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "have the ability to erase certain people from your life",
+    "option2": "have the ability to bring back people who have left",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "be able to communicate with the deceased",
+    "option2": "be able to foresee your own future",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "be the first to discover a habitable planet",
+    "option2": "be the inventor of a cure for a deadly disease",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "be a genius in a world of unintelligent people",
+    "option2": "be unintelligent in a world of geniuses",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "have unlimited love",
+    "option2": "have unlimited wealth",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "have unlimited knowledge",
+    "option2": "have unlimited wealth",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "never experience the emotion of love",
+    "option2": "never experience the emotion of fear",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "spend 10 years in jail",
+    "option2": "spend 20 years in a coma",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "always have to tell the truth",
+    "option2": "always have to lie",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "be known for your kindness",
+    "option2": "be known for your intelligence",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "have unlimited knowledge",
+    "option2": "have unlimited patience",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "have unlimited money, power, and respect",
+    "option2": "have unlimited love, peace, and happiness",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "witness the beginning of planet Earth",
+    "option2": "witness the end of planet Earth",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "live in a world without emotions",
+    "option2": "live in a world without logic",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "live in a world where everyone can read your mind",
+    "option2": "live in a world where no one can ever understand you",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "be able to talk to your future self",
+    "option2": "be able to talk to your past self",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "be remembered for your wealth",
+    "option2": "be remembered for your kindness",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "be rich and unhappy",
+    "option2": "be poor and happy",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "be a world-famous celebrity",
+    "option2": "be an unknown hero",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "live in a world without art",
+    "option2": "live in a world without science",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "live in a world without pain",
+    "option2": "live in a world without pleasure",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "live in a world with no sadness",
+    "option2": "live in a world with no happiness",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "have instant knowledge of all scientific facts",
+    "option2": "have an instant understanding of all historical events",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "live in a world where everyone tells the truth",
+    "option2": "live in a world where everyone tells lies",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "have the power to create life",
+    "option2": "have the power to destroy it",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "be able to read people's thoughts",
+    "option2": "be able to control their decisions",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "live in a world without technology",
+    "option2": "live in a world without nature",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "have all your wishes come true but never be able to tell anyone",
+    "option2": "be able to share your wishes with others but have them never come true",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "travel through time only as an observer who can't interact with anything",
+    "option2": "be able to alter history but never witness the changes firsthand",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "have absolute power but need someone to share it with",
+    "option2": "give out unlimited money but never benefit from it yourself",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "have the power to make everyone like you",
+    "option2": "have the ability to fully control your own destiny",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "have the power to see the future",
+    "option2": "have the ability to change it",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "have the power to undo any mistake you make",
+    "option2": "have the ability to never make a mistake in the first place",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "be understood",
+    "option2": "be accepted",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "give up comfort",
+    "option2": "give up security",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "be deeply loved by a few",
+    "option2": "be widely admired by many",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "be alone",
+    "option2": "be surrounded by people who don't understand you",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "speak your mind and risk offending someone",
+    "option2": "stay silent and risk never being heard",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "have a few trustworthy friends",
+    "option2": "have many acquaintances",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "follow your heart",
+    "option2": "use common sense",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "live without fear",
+    "option2": "live without regret",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "be content but never reach your full potential",
+    "option2": "be successful but always feel unfulfilled",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "be able to control your own emotions",
+    "option2": "be able to read the feelings of others",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "live a life of adventure",
+    "option2": "live a life of stability",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "live with regret",
+    "option2": "live without hope",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "give up everything you have now for the chance to pursue your dreams",
+    "option2": "stay where you are and be happy with what you already have",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "never worry about money",
+    "option2": "always feel secure and loved",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "live a life of purpose",
+    "option2": "live a life of pleasure",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "take the path of least resistance",
+    "option2": "forge your own way",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "be happy but have no purpose in life",
+    "option2": "be unhappy but fulfill a greater mission",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "be loved for who you are",
+    "option2": "be respected for what you do",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "live in a world where everyone agrees with you",
+    "option2": "live in a world where no one does, but every opinion is respected",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "trust everyone",
+    "option2": "always be suspicious",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "have absolute power",
+    "option2": "have absolute freedom",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "live a life of ease",
+    "option2": "live a life with purpose",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "know all past events",
+    "option2": "know all future events",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "live in a world without rules",
+    "option2": "live in a world with too many rules",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "live a life of simplicity",
+    "option2": "live a life of complexity",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "lead by example",
+    "option2": "lead through authority",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "accept the world as it is",
+    "option2": "strive to improve it",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "be the most powerful person in the world",
+    "option2": "be the wisest person in the world",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "have an abundance of possessions",
+    "option2": "have an abundance of experiences",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "have a life of order",
+    "option2": "have a life of creativity",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "live forever",
+    "option2": "die knowing you made a lasting impact",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "have control over your own life",
+    "option2": "have control over the lives of others",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "give up your freedom for safety",
+    "option2": "accept danger in exchange for freedom",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "stand up for your beliefs and risk being wrong",
+    "option2": "stay silent and never know the truth",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "have everyone like you",
+    "option2": "truly be yourself but risk being disliked",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "have the ability to forgive",
+    "option2": "have the ability to forget",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "live without fear",
+    "option2": "live without love",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "have a long life filled with good health",
+    "option2": "have a shorter life filled with outstanding accomplishments",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "have absolute control",
+    "option2": "have absolute trust",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "always be correct",
+    "option2": "always be happy",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "live a life without stress",
+    "option2": "live a life without boredom",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "be infamous in the history books",
+    "option2": "be completely forgotten after your death",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "be one of the world's leading experts in a single field",
+    "option2": "be the most well-rounded, versatile person in the world",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "be the richest person in the world",
+    "option2": "be the smartest person in the world",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "witness something in your lifetime that almost no one else will ever see",
+    "option2": "witness something in your lifetime that many others have also seen",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "have a huge imagination",
+    "option2": "have a photographic memory",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "have a peaceful existence with none of life's troubles",
+    "option2": "live a 'normal' life full of risk and challenge",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "have people admire you for your good deeds",
+    "option2": "have people respect you for your power",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "live out the rest of your life in the wilderness",
+    "option2": "live out the rest of your life in jail",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "live in a country where the government almost always does the right thing",
+    "option2": "live in a country where the government has to listen to you",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "live in a world where everyone ignores you",
+    "option2": "live in a world where everyone is mean to you",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "live in a world with no crime",
+    "option2": "live in a world with no privacy",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "live in a world with no disease",
+    "option2": "live in a world with true income equality",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "live another 100 years in a state of perfect health",
+    "option2": "age normally for the rest of your life",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "live to 100 years old",
+    "option2": "live to 500 years old",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "never be rejected again",
+    "option2": "never fail again",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "give up all technology",
+    "option2": "give up all movies, television, and books",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "be famous for all the wrong reasons",
+    "option2": "not be famous at all",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "live in a future where people take everything too seriously",
+    "option2": "live in a future where people don't take anything seriously",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "never have to worry about money",
+    "option2": "never be tempted to buy things you don't need",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "have an exciting but dangerous life",
+    "option2": "have a boring but meaningful life",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "be liked by everyone you've ever met",
+    "option2": "have everything you've ever wanted",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "have unlimited power that no one knows about",
+    "option2": "have limited power that everyone admires you for",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "save 100 strangers",
+    "option2": "save one person you love",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "know everything about the universe",
+    "option2": "have the power to change one law of physics",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "have everyone love you while you love no one",
+    "option2": "love everyone while no one loves you",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "have free will proven to be an illusion",
+    "option2": "have destiny proven to be real",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "have a life of comfort with no purpose",
+    "option2": "have a life of struggle with great purpose",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "know the meaning of life",
+    "option2": "never have to wonder about it",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "live in a world where everyone knows your thoughts",
+    "option2": "live in a world where you know everyone else's thoughts",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "be the last human on Earth",
+    "option2": "be the first human on a new planet",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "know you'll accomplish something great but die young",
+    "option2": "live a long life with no significant impact",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "end all wars",
+    "option2": "end all hunger",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "have perfect knowledge of yourself",
+    "option2": "have perfect knowledge of others",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "experience any moment in history as an observer",
+    "option2": "change one moment in history",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "be remembered for 1,000 years",
+    "option2": "live for 1,000 years",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "have infinite wisdom",
+    "option2": "have infinite compassion",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "prevent one major historical tragedy",
+    "option2": "bring back one extinct species",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "eliminate all human suffering",
+    "option2": "maximize all human happiness",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "never experience loss",
+    "option2": "never experience love",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "give everyone one piece of perfect advice",
+    "option2": "receive one piece of perfect advice yourself",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "know the exact date of your death",
+    "option2": "know the cause of your death",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "forget who you were",
+    "option2": "forget who everyone else is",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "live forever",
+    "option2": "die in an instant",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "love",
+    "option2": "be loved",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "experience the highest highs and lowest lows",
+    "option2": "live a life of consistent, moderate emotions",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "sacrifice someone you love to save a stranger",
+    "option2": "sacrifice yourself to save a stranger",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "lose all the money you've ever worked for",
+    "option2": "lose everyone in your life",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "relive the greatest day of your life",
+    "option2": "get a glimpse of your biggest future achievement",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "be religious",
+    "option2": "be spiritual",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "be an open book to everyone",
+    "option2": "have people talk about you behind your back",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "know for certain if God is real",
+    "option2": "discover the cure for cancer",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "be book-smart",
+    "option2": "be street-smart",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "contribute to today's society",
+    "option2": "travel back in time and contribute to society then",
+    "category": "Deep Thoughts"
+  },
+  {
+    "option1": "be able to fly",
+    "option2": "be able to teleport anywhere instantly",
+    "category": "Dreams"
+  },
+  {
+    "option1": "have super strength",
+    "option2": "have super speed",
+    "category": "Dreams"
+  },
+  {
+    "option1": "be invisible",
+    "option2": "be able to read minds",
+    "category": "Dreams"
+  },
+  {
+    "option1": "be able to stop time",
+    "option2": "be able to rewind time by 10 seconds",
+    "category": "Dreams"
+  },
+  {
+    "option1": "be able to breathe underwater",
+    "option2": "be able to survive in outer space without a suit",
+    "category": "Dreams"
+  },
+  {
+    "option1": "have x-ray vision",
+    "option2": "have telescopic vision that can see 100 miles away",
+    "category": "Dreams"
+  },
+  {
+    "option1": "be able to shrink to the size of an ant",
+    "option2": "be able to grow to the size of a skyscraper",
+    "category": "Dreams"
+  },
+  {
+    "option1": "have instant, Wolverine-style healing",
+    "option2": "be completely invulnerable",
+    "category": "Dreams"
+  },
+  {
+    "option1": "be able to talk to animals",
+    "option2": "speak every human language fluently",
+    "category": "Dreams"
+  },
+  {
+    "option1": "have night vision",
+    "option2": "be able to see 10 minutes into the future",
+    "category": "Dreams"
+  },
+  {
+    "option1": "have a photographic memory",
+    "option2": "be able to forget anything on command",
+    "category": "Dreams"
+  },
+  {
+    "option1": "be able to duplicate yourself",
+    "option2": "be able to swap bodies with anyone for a day",
+    "category": "Dreams"
+  },
+  {
+    "option1": "be able to make anyone tell the truth",
+    "option2": "be able to make anyone believe any lie",
+    "category": "Dreams"
+  },
+  {
+    "option1": "be able to control gravity",
+    "option2": "be able to control magnetism",
+    "category": "Dreams"
+  },
+  {
+    "option1": "have super hearing",
+    "option2": "have a super sense of smell",
+    "category": "Dreams"
+  },
+  {
+    "option1": "be able to run on water",
+    "option2": "be able to walk through walls",
+    "category": "Dreams"
+  },
+  {
+    "option1": "be able to create a force field at will",
+    "option2": "be able to turn your skin to steel at will",
+    "category": "Dreams"
+  },
+  {
+    "option1": "be able to jump 100 feet in a single bound",
+    "option2": "be able to punch with the force of a wrecking ball",
+    "category": "Dreams"
+  },
+  {
+    "option1": "never need sleep again",
+    "option2": "never need food again",
+    "category": "Dreams"
+  },
+  {
+    "option1": "have the reflexes of a cat",
+    "option2": "have the endurance of a wolf",
+    "category": "Dreams"
+  },
+  {
+    "option1": "be able to shoot lasers from your eyes",
+    "option2": "be able to shoot fire from your hands",
+    "category": "Dreams"
+  },
+  {
+    "option1": "have elastic, stretchable limbs",
+    "option2": "have wings that fold into your back",
+    "category": "Dreams"
+  },
+  {
+    "option1": "have a touch that heals",
+    "option2": "have a touch that destroys",
+    "category": "Dreams"
+  },
+  {
+    "option1": "have telekinesis",
+    "option2": "have telepathy",
+    "category": "Dreams"
+  },
+  {
+    "option1": "be able to read anyone's emotions perfectly",
+    "option2": "be able to predict anyone's next move",
+    "category": "Dreams"
+  },
+  {
+    "option1": "be able to enter other people's dreams",
+    "option2": "be able to create your own pocket dimension",
+    "category": "Dreams"
+  },
+  {
+    "option1": "be able to control one person's actions for 24 hours",
+    "option2": "be able to freeze everyone in a room for one hour",
+    "category": "Dreams"
+  },
+  {
+    "option1": "always know the answer to any question",
+    "option2": "always know when someone is lying",
+    "category": "Dreams"
+  },
+  {
+    "option1": "be able to see anyone's memories just by touching them",
+    "option2": "be able to see anyone's future by looking into their eyes",
+    "category": "Dreams"
+  },
+  {
+    "option1": "be able to learn any skill instantly",
+    "option2": "be able to teach any skill to someone else instantly",
+    "category": "Dreams"
+  },
+  {
+    "option1": "be able to communicate with ghosts",
+    "option2": "be able to communicate with aliens",
+    "category": "Dreams"
+  },
+  {
+    "option1": "have perfect control over your own emotions",
+    "option2": "be able to calm anyone down instantly",
+    "category": "Dreams"
+  },
+  {
+    "option1": "be able to sense danger five minutes before it happens",
+    "option2": "always know exactly who you can trust",
+    "category": "Dreams"
+  },
+  {
+    "option1": "be able to absorb knowledge from any book just by touching it",
+    "option2": "be able to download your knowledge into someone else's brain instantly",
+    "category": "Dreams"
+  },
+  {
+    "option1": "be able to mind-control animals",
+    "option2": "be able to mind-control technology",
+    "category": "Dreams"
+  },
+  {
+    "option1": "be able to move any object under 10 pounds with your mind",
+    "option2": "be able to move one object of any weight, once per day",
+    "category": "Dreams"
+  },
+  {
+    "option1": "be able to astral project while you sleep",
+    "option2": "be able to lucid dream with full control every night",
+    "category": "Dreams"
+  },
+  {
+    "option1": "always know exactly what gift someone wants",
+    "option2": "always know the right thing to say",
+    "category": "Dreams"
+  },
+  {
+    "option1": "never feel fear again",
+    "option2": "never feel physical pain again",
+    "category": "Dreams"
+  },
+  {
+    "option1": "be able to control fire",
+    "option2": "be able to control ice",
+    "category": "Dreams"
+  },
+  {
+    "option1": "be able to command lightning",
+    "option2": "be able to command earthquakes",
+    "category": "Dreams"
+  },
+  {
+    "option1": "be able to breathe fire like a dragon",
+    "option2": "be able to spit venom like a cobra",
+    "category": "Dreams"
+  },
+  {
+    "option1": "be able to control the weather in a 1-mile radius",
+    "option2": "be able to control plant growth anywhere you can see",
+    "category": "Dreams"
+  },
+  {
+    "option1": "be able to turn any liquid into clean water",
+    "option2": "be able to turn any rock into gold",
+    "category": "Dreams"
+  },
+  {
+    "option1": "be able to grow a full tree in seconds",
+    "option2": "be able to make flowers bloom wherever you touch",
+    "category": "Dreams"
+  },
+  {
+    "option1": "be immune to extreme heat",
+    "option2": "be immune to extreme cold",
+    "category": "Dreams"
+  },
+  {
+    "option1": "be able to control sand",
+    "option2": "be able to control wind",
+    "category": "Dreams"
+  },
+  {
+    "option1": "be able to generate electricity from your own body",
+    "option2": "be able to absorb sunlight to become stronger",
+    "category": "Dreams"
+  },
+  {
+    "option1": "be able to talk to trees and hear their wisdom",
+    "option2": "be able to talk to rivers and learn their secrets",
+    "category": "Dreams"
+  },
+  {
+    "option1": "be able to turn into a wolf at will",
+    "option2": "be able to turn into an eagle at will",
+    "category": "Dreams"
+  },
+  {
+    "option1": "be able to swim as fast as a dolphin",
+    "option2": "be able to climb as well as a spider",
+    "category": "Dreams"
+  },
+  {
+    "option1": "have the echolocation of a bat",
+    "option2": "have the camouflage of a chameleon",
+    "category": "Dreams"
+  },
+  {
+    "option1": "be a villain with incredible powers",
+    "option2": "be a hero with only mediocre powers",
+    "category": "Dreams"
+  },
+  {
+    "option1": "be the only person with powers in a normal world",
+    "option2": "be a normal person in a world where everyone has powers",
+    "category": "Dreams"
+  },
+  {
+    "option1": "choose one superpower to keep forever",
+    "option2": "get a random new superpower every morning",
+    "category": "Dreams"
+  },
+  {
+    "option1": "have a power that makes everyone afraid of you",
+    "option2": "have a power that makes everyone trust you completely",
+    "category": "Dreams"
+  },
+  {
+    "option1": "be able to fly",
+    "option2": "be invisible",
+    "category": "Dreams"
+  },
+  {
+    "option1": "be very strong",
+    "option2": "be able to fly",
+    "category": "Dreams"
+  },
+  {
+    "option1": "have superhuman vision",
+    "option2": "have superhuman hearing",
+    "category": "Dreams"
+  },
+  {
+    "option1": "be able to fly",
+    "option2": "get anything you want off Amazon for free",
+    "category": "Dreams"
+  },
+  {
+    "option1": "be able to teleport",
+    "option2": "become invisible",
+    "category": "Dreams"
+  },
+  {
+    "option1": "have superpowers yourself",
+    "option2": "date someone who has superpowers",
+    "category": "Dreams"
+  },
+  {
+    "option1": "live in a world with magic",
+    "option2": "live in a world without magic",
+    "category": "Dreams"
+  },
+  {
+    "option1": "have a pet dragon",
+    "option2": "have a magical unicorn",
+    "category": "Dreams"
+  },
+  {
+    "option1": "live in a castle in the clouds",
+    "option2": "live in a palace under the sea",
+    "category": "Dreams"
+  },
+  {
+    "option1": "attend a school of magic",
+    "option2": "attend a school for mythical creatures",
+    "category": "Dreams"
+  },
+  {
+    "option1": "explore a mystical forest",
+    "option2": "explore a mysterious cavern",
+    "category": "Dreams"
+  },
+  {
+    "option1": "be friends with a talking animal",
+    "option2": "be friends with a mischievous sprite",
+    "category": "Dreams"
+  },
+  {
+    "option1": "have the power of telekinesis",
+    "option2": "have the ability to control the elements",
+    "category": "Dreams"
+  },
+  {
+    "option1": "be able to cast any spell, but it takes a full day to cast",
+    "option2": "only be able to cast one simple charm, but cast it instantly",
+    "category": "Dreams"
+  },
+  {
+    "option1": "be able to brew a potion that cures any ailment",
+    "option2": "be able to enchant a weapon that always hits its mark",
+    "category": "Dreams"
+  },
+  {
+    "option1": "have a pet unicorn that grants you one wish a week",
+    "option2": "have a loyal dire wolf that can track anything",
+    "category": "Dreams"
+  },
+  {
+    "option1": "be able to foresee your own future, but never be able to change it",
+    "option2": "be able to change your past, but forget every change you make",
+    "category": "Dreams"
+  },
+  {
+    "option1": "be able to travel to any dimension, but only stay for an hour at a time",
+    "option2": "live forever in your favorite fantasy world, but never be able to leave",
+    "category": "Dreams"
+  },
+  {
+    "option1": "be immortal, but age backwards at an alarming rate",
+    "option2": "be able to heal any wound instantly, but feel the pain first",
+    "category": "Dreams"
+  },
+  {
+    "option1": "be able to control dreams, but only after living them out yourself",
+    "option2": "be able to influence luck, but only for other people",
+    "category": "Dreams"
+  },
+  {
+    "option1": "live in a castle haunted by friendly ghosts who tidy up and make you tea",
+    "option2": "live in a cottage that's magically protected from harm, but teleports to a new location every morning",
+    "category": "Dreams"
+  },
+  {
+    "option1": "live in a world where gravity randomly reverses and lets you fly",
+    "option2": "live in a world where time moves in unpredictable bursts of speed and slowness",
+    "category": "Dreams"
+  },
+  {
+    "option1": "have a magical library that holds all the secrets of the universe",
+    "option2": "have a treasure chest that refills itself with gold every morning",
+    "category": "Dreams"
+  },
+  {
+    "option1": "have a cloak of invisibility that stops you from touching anything while worn",
+    "option2": "have boots of speed that can cross vast distances in seconds",
+    "category": "Dreams"
+  },
+  {
+    "option1": "cook dinner for the family every night",
+    "option2": "do the dishes every night",
+    "category": "Family"
+  },
+  {
+    "option1": "help plan every family meal for a month",
+    "option2": "have no say in what you eat for a month",
+    "category": "Family"
+  },
+  {
+    "option1": "have a food fight with your family",
+    "option2": "build the tallest food tower together as a family",
+    "category": "Family"
+  },
+  {
+    "option1": "have Thanksgiving dinner every week",
+    "option2": "have birthday cake every day",
+    "category": "Family"
+  },
+  {
+    "option1": "go on a family hike",
+    "option2": "go on a family bike ride",
+    "category": "Family"
+  },
+  {
+    "option1": "take a family road trip with no map",
+    "option2": "take a family road trip with no snacks",
+    "category": "Family"
+  },
+  {
+    "option1": "camp in a tent on a family trip",
+    "option2": "stay in a fancy hotel on a family trip",
+    "category": "Family"
+  },
+  {
+    "option1": "sit in the front seat on a family road trip",
+    "option2": "have the whole back seat to yourself",
+    "category": "Family"
+  },
+  {
+    "option1": "take a family trip to outer space",
+    "option2": "take a family trip to the bottom of the ocean",
+    "category": "Family"
+  },
+  {
+    "option1": "stop at every roadside attraction on a family trip",
+    "option2": "skip them all to get there faster",
+    "category": "Family"
+  },
+  {
+    "option1": "travel to the past and meet your great-great-grandparents",
+    "option2": "travel to the future and meet your great-great-grandchildren",
+    "category": "Family"
+  },
+  {
+    "option1": "have the family road trip never end",
+    "option2": "be able to teleport home whenever you want",
+    "category": "Family"
+  },
+  {
+    "option1": "stay a kid forever and live with your parents",
+    "option2": "grow up overnight",
+    "category": "Family"
+  },
+  {
+    "option1": "travel back in time to when your parents were born",
+    "option2": "travel 20 years into the future",
+    "category": "Family"
+  },
+  {
+    "option1": "have 10 siblings",
+    "option2": "have no siblings",
+    "category": "Family"
+  },
+  {
+    "option1": "have a robot that cooks for your family",
+    "option2": "have a robot that does your family's chores",
+    "category": "Family"
+  },
+  {
+    "option1": "miss one birthday",
+    "option2": "miss five Halloweens in a row",
+    "category": "Family"
+  },
+  {
+    "option1": "move to a new town every year",
+    "option2": "live in the same town your whole life",
+    "category": "Family"
+  },
+  {
+    "option1": "give up all holidays",
+    "option2": "give up all family vacations",
+    "category": "Family"
+  },
+  {
+    "option1": "be Santa Claus",
+    "option2": "be the Tooth Fairy",
+    "category": "Family"
+  },
+  {
+    "option1": "get in trouble with your parents",
+    "option2": "get in trouble with your teacher",
+    "category": "Family"
+  },
+  {
+    "option1": "be looked up to by your friends",
+    "option2": "be praised by your parents",
+    "category": "Family"
+  },
+  {
+    "option1": "have your grandma's name",
+    "option2": "have your grandma's hair",
+    "category": "Family"
+  },
+  {
+    "option1": "have a movie night with your entire family",
+    "option2": "have a game night with your cousins",
+    "category": "Family"
+  },
+  {
+    "option1": "have a family picnic in the park",
+    "option2": "have a cozy movie day at home with family",
+    "category": "Family"
+  },
+  {
+    "option1": "organize a big family reunion",
+    "option2": "plan a fun holiday celebration with your loved ones",
+    "category": "Family"
+  },
+  {
+    "option1": "share your favorite childhood memory with your siblings",
+    "option2": "listen to your parent's stories from when they were young",
+    "category": "Family"
+  },
+  {
+    "option1": "cook a big meal with your whole family",
+    "option2": "have a family potluck dinner",
+    "category": "Family"
+  },
+  {
+    "option1": "celebrate your birthday with a big family party",
+    "option2": "celebrate with a small, intimate family gathering",
+    "category": "Family"
+  },
+  {
+    "option1": "perform in a family talent show",
+    "option2": "perform in a family group dance",
+    "category": "Family"
+  },
+  {
+    "option1": "plan an anniversary celebration for your parents",
+    "option2": "surprise your grandparents with a visit",
+    "category": "Family"
+  },
+  {
+    "option1": "have a karaoke night with your family",
+    "option2": "have a family dance-off",
+    "category": "Family"
+  },
+  {
+    "option1": "spend an entire day with your extended family",
+    "option2": "spend quality time with just your immediate family",
+    "category": "Family"
+  },
+  {
+    "option1": "share secrets over late-night talks with a cousin",
+    "option2": "plan a surprise for a sibling",
+    "category": "Family"
+  },
+  {
+    "option1": "go fishing with your dad",
+    "option2": "bake cookies with your mom",
+    "category": "Family"
+  },
+  {
+    "option1": "learn your family history from your grandparents",
+    "option2": "create brand-new traditions with your siblings",
+    "category": "Family"
+  },
+  {
+    "option1": "take an early morning walk with your grandparents",
+    "option2": "have a late-night conversation with your siblings",
+    "category": "Family"
+  },
+  {
+    "option1": "explore a new hobby with your parents",
+    "option2": "teach your cousins a skill you love",
+    "category": "Family"
+  },
+  {
+    "option1": "reminisce about past holidays with your family",
+    "option2": "plan exciting new family traditions",
+    "category": "Family"
+  },
+  {
+    "option1": "have a surprise visit from a distant relative",
+    "option2": "plan a reunion with relatives you haven't seen in years",
+    "category": "Family"
+  },
+  {
+    "option1": "listen to your parent's childhood stories",
+    "option2": "have your siblings share their funniest childhood moments",
+    "category": "Family"
+  },
+  {
+    "option1": "exchange heartfelt compliments with your family at dinner",
+    "option2": "have a friendly roasting session with your family at dinner",
+    "category": "Family"
+  },
+  {
+    "option1": "keep your family's old holiday traditions",
+    "option2": "create modern new ones with your family",
+    "category": "Family"
+  },
+  {
+    "option1": "have a summer pool party with your relatives",
+    "option2": "have a cozy winter hot chocolate evening with your family",
+    "category": "Family"
+  },
+  {
+    "option1": "celebrate a family milestone with a big gathering",
+    "option2": "celebrate with a small, intimate dinner",
+    "category": "Family"
+  },
+  {
+    "option1": "spend a day teaching your own kids something",
+    "option2": "spend a day learning from your grandparents",
+    "category": "Family"
+  },
+  {
+    "option1": "have deep conversations with your elders",
+    "option2": "have quirky chats with your younger cousins",
+    "category": "Family"
+  },
+  {
+    "option1": "talk things out as a family when there's a conflict",
+    "option2": "let each family member handle it on their own",
+    "category": "Family"
+  },
+  {
+    "option1": "learn to make your family's secret recipes",
+    "option2": "learn to cook international dishes with your family",
+    "category": "Family"
+  },
+  {
+    "option1": "have a family meeting to plan the next holiday",
+    "option2": "let your family celebrate spontaneously",
+    "category": "Family"
+  },
+  {
+    "option1": "swap funny childhood pranks with your siblings",
+    "option2": "reveal the silliest secrets from your family's past",
+    "category": "Family"
+  },
+  {
+    "option1": "make a new house rule that the whole family has to follow",
+    "option2": "never have any family rules to follow",
+    "category": "Family"
+  },
+  {
+    "option1": "share a family recipe passed down for generations",
+    "option2": "invent a brand new family recipe",
+    "category": "Family"
+  },
+  {
+    "option1": "go camping with your family",
+    "option2": "spend the day at an amusement park with your family",
+    "category": "Family"
+  },
+  {
+    "option1": "have a family game tournament",
+    "option2": "have a friendly family sports match",
+    "category": "Family"
+  },
+  {
+    "option1": "build a family scrapbook of old photos",
+    "option2": "make a video diary of family memories",
+    "category": "Family"
+  },
+  {
+    "option1": "play charades with your whole family",
+    "option2": "do a family board game challenge",
+    "category": "Family"
+  },
+  {
+    "option1": "explore a museum with your family",
+    "option2": "have a DIY craft session at home with your family",
+    "category": "Family"
+  },
+  {
+    "option1": "spend Saturday morning baking with your family",
+    "option2": "spend it assembling puzzles together as a family",
+    "category": "Family"
+  },
+  {
+    "option1": "have a family quiz night",
+    "option2": "share stories over cocoa with your family",
+    "category": "Family"
+  },
+  {
+    "option1": "join a family sports league",
+    "option2": "start a family book club",
+    "category": "Family"
+  },
+  {
+    "option1": "design a family garden together",
+    "option2": "build a treehouse together as a family",
+    "category": "Family"
+  },
+  {
+    "option1": "spend the holidays with just your immediate family",
+    "option2": "spend the holidays with all your extended family",
+    "category": "Family"
+  },
+  {
+    "option1": "have a themed family dinner night at home",
+    "option2": "invite relatives over for a cultural potluck",
+    "category": "Family"
+  },
+  {
+    "option1": "go ice skating with your family",
+    "option2": "host a winter game night indoors with your family",
+    "category": "Family"
+  },
+  {
+    "option1": "help your kids with their school projects",
+    "option2": "learn history from your older family members",
+    "category": "Family"
+  },
+  {
+    "option1": "start a weekly family game night tradition",
+    "option2": "start a monthly family outdoor adventure tradition",
+    "category": "Family"
+  },
+  {
+    "option1": "build a family tree chart",
+    "option2": "explore your family's genealogy through old photos and letters",
+    "category": "Family"
+  },
+  {
+    "option1": "have an unplugged family day with no technology",
+    "option2": "have a virtual family gathering",
+    "category": "Family"
+  },
+  {
+    "option1": "build a blanket fort with your family",
+    "option2": "have a family movie marathon",
+    "category": "Family"
+  },
+  {
+    "option1": "your best friend date your ex you ended things badly with",
+    "option2": "your best friend lie to you about something super important",
+    "category": "Friends"
+  },
+  {
+    "option1": "keep a super embarrassing secret about a friend that makes you uncomfortable",
+    "option2": "reveal a slightly shameful anecdote about yourself",
+    "category": "Friends"
+  },
+  {
+    "option1": "publicly defend a friend who's clearly wrong",
+    "option2": "tell them the truth in private, even if it hurts them",
+    "category": "Friends"
+  },
+  {
+    "option1": "lend $50 to a friend who never pays people back",
+    "option2": "refuse and look like a cheapskate",
+    "category": "Friends"
+  },
+  {
+    "option1": "have your friends tell you straight up when your new haircut or outfit is horrible",
+    "option2": "let you go out looking like that",
+    "category": "Friends"
+  },
+  {
+    "option1": "find out your friends threw you a surprise party even though you hate surprises",
+    "option2": "have them completely forget your birthday",
+    "category": "Friends"
+  },
+  {
+    "option1": "forgive a friend who accidentally spilled one of your secrets",
+    "option2": "forgive a friend who ditched you last minute for other plans",
+    "category": "Friends"
+  },
+  {
+    "option1": "have your friends know all your flaws",
+    "option2": "have your friends know all your phobias",
+    "category": "Friends"
+  },
+  {
+    "option1": "cover for a friend's small screw-up",
+    "option2": "let them deal with it themselves",
+    "category": "Friends"
+  },
+  {
+    "option1": "have a super reliable but slightly boring friend",
+    "option2": "have a hilarious friend who's totally unreliable",
+    "category": "Friends"
+  },
+  {
+    "option1": "have your friends support you in a slightly crazy decision",
+    "option2": "have your friends try to talk you out of it",
+    "category": "Friends"
+  },
+  {
+    "option1": "be in a friend group where everyone is brutally honest, sometimes too much",
+    "option2": "be in a friend group where touchy subjects are always avoided",
+    "category": "Friends"
+  },
+  {
+    "option1": "have your friends step in if your partner is treating you badly",
+    "option2": "have your friends stay out of your relationship drama",
+    "category": "Friends"
+  },
+  {
+    "option1": "know your friends talk about you behind your back, even if it's good things",
+    "option2": "know nothing at all about what your friends say about you",
+    "category": "Friends"
+  },
+  {
+    "option1": "go on a road trip with your friends with no plan and very little money",
+    "option2": "go on an organized luxury trip with your family instead",
+    "category": "Friends"
+  },
+  {
+    "option1": "go skydiving with your terrified best friend",
+    "option2": "go scuba diving with harmless sharks with your friends",
+    "category": "Friends"
+  },
+  {
+    "option1": "throw the party of the year at your place, risking it getting out of hand",
+    "option2": "crash a party where you barely know anyone",
+    "category": "Friends"
+  },
+  {
+    "option1": "get lost in the middle of the night in an unfamiliar city with your friends",
+    "option2": "be stuck in an elevator with your friends for three hours",
+    "category": "Friends"
+  },
+  {
+    "option1": "attempt a completely stupid dare from your friends",
+    "option2": "be seen as a party pooper by your friends",
+    "category": "Friends"
+  },
+  {
+    "option1": "go camping with your friends in super basic conditions, no shower or toilet",
+    "option2": "rent a dream villa with friends but put up with everyone's snoring",
+    "category": "Friends"
+  },
+  {
+    "option1": "attempt a super complicated escape room with your friends",
+    "option2": "do karaoke where you all sing terribly off-key",
+    "category": "Friends"
+  },
+  {
+    "option1": "start a band with your friends even if you all suck",
+    "option2": "create a YouTube channel together about a random topic",
+    "category": "Friends"
+  },
+  {
+    "option1": "go on a multi-day trek in the mountains with friends",
+    "option2": "spend a week on an overcrowded boat with friends",
+    "category": "Friends"
+  },
+  {
+    "option1": "share a single hotel room with five friends",
+    "option2": "pay a fortune to have your own room",
+    "category": "Friends"
+  },
+  {
+    "option1": "go on a volunteer trip with friends in difficult conditions",
+    "option2": "spend a lazy vacation with friends on a crowded beach",
+    "category": "Friends"
+  },
+  {
+    "option1": "attend a music festival with friends in torrential rain",
+    "option2": "attend a concert with friends in an overcrowded, sweaty venue",
+    "category": "Friends"
+  },
+  {
+    "option1": "try an extreme sport together with friends, like rafting or climbing",
+    "option2": "run a marathon in costumes with your friends",
+    "category": "Friends"
+  },
+  {
+    "option1": "let your friends choose your next vacation destination",
+    "option2": "impose your own choice of vacation on your friends",
+    "category": "Friends"
+  },
+  {
+    "option1": "have an incredible adventure but never be able to tell anyone about it",
+    "option2": "have a mundane adventure you can tell everyone about",
+    "category": "Friends"
+  },
+  {
+    "option1": "share your food freely with friends",
+    "option2": "jealously guard your plate or bag of chips",
+    "category": "Friends"
+  },
+  {
+    "option1": "be in a group chat that spams nonstop",
+    "option2": "be in a group chat where nobody ever replies",
+    "category": "Friends"
+  },
+  {
+    "option1": "have friends who are always late",
+    "option2": "have friends who are always thirty minutes early and stress you out",
+    "category": "Friends"
+  },
+  {
+    "option1": "lend your favorite clothes to friends, risking damage",
+    "option2": "never lend your friends anything",
+    "category": "Friends"
+  },
+  {
+    "option1": "live with your best friend and risk falling out",
+    "option2": "never live with your best friend but keep a great relationship",
+    "category": "Friends"
+  },
+  {
+    "option1": "have drastically different music taste than your friends",
+    "option2": "listen to the same playlist as your friends on repeat",
+    "category": "Friends"
+  },
+  {
+    "option1": "always crash at your friends' places",
+    "option2": "always host your friends at your place",
+    "category": "Friends"
+  },
+  {
+    "option1": "always be the one who picks the restaurant or bar",
+    "option2": "always be the one who says whatever you guys want",
+    "category": "Friends"
+  },
+  {
+    "option1": "have passionate, sometimes heated debates with friends about serious topics",
+    "option2": "only talk about light and funny stuff with friends",
+    "category": "Friends"
+  },
+  {
+    "option1": "have friends who ask for your advice on everything",
+    "option2": "have friends who never ask you for anything",
+    "category": "Friends"
+  },
+  {
+    "option1": "be in a friend group where everyone else is coupled up",
+    "option2": "be the only single one while all your friends are coupled up",
+    "category": "Friends"
+  },
+  {
+    "option1": "have super touchy-feely friends who are always hugging",
+    "option2": "have friends who always keep their distance",
+    "category": "Friends"
+  },
+  {
+    "option1": "have your friends comment on all your social media posts",
+    "option2": "have friends who never look at your social media at all",
+    "category": "Friends"
+  },
+  {
+    "option1": "put up with your friend's lame hobby",
+    "option2": "have your friend constantly criticize your hobby",
+    "category": "Friends"
+  },
+  {
+    "option1": "always be the friend who drives everyone around",
+    "option2": "always be the friend who has to ask for a ride",
+    "category": "Friends"
+  },
+  {
+    "option1": "swap bodies with your best friend for 24 hours",
+    "option2": "swap bodies with your friend's dog or cat for 24 hours",
+    "category": "Friends"
+  },
+  {
+    "option1": "have an awkward conversation with your friend's parents",
+    "option2": "have an awkward conversation with your friend about something very personal",
+    "category": "Friends"
+  },
+  {
+    "option1": "wear a t-shirt with a ridiculous picture of your friend on it for a week",
+    "option2": "have your friend wear a t-shirt with a ridiculous picture of you on it for a week",
+    "category": "Friends"
+  },
+  {
+    "option1": "have your friend be able to hear your thoughts",
+    "option2": "be able to hear your friend's thoughts",
+    "category": "Friends"
+  },
+  {
+    "option1": "get stuck inside a video game with your friends",
+    "option2": "have an annoying video game character join your friend group in real life",
+    "category": "Friends"
+  },
+  {
+    "option1": "have the same laugh as your loudest friend",
+    "option2": "have the same verbal tic as your most annoying friend",
+    "category": "Friends"
+  },
+  {
+    "option1": "face a horde of zombies with only your friends as your team",
+    "option2": "compete against your friends on a survival TV show and risk betrayal",
+    "category": "Friends"
+  },
+  {
+    "option1": "only communicate with your friends through memes for a week",
+    "option2": "only communicate with your friends through movie quotes for a week",
+    "category": "Friends"
+  },
+  {
+    "option1": "have a friend discover your entire internet search history",
+    "option2": "have a friend discover your complete phone photo gallery",
+    "category": "Friends"
+  },
+  {
+    "option1": "get matching dumb tattoos with your friends on a whim",
+    "option2": "refuse and break your friend group's tattoo tradition",
+    "category": "Friends"
+  },
+  {
+    "option1": "have a useless superpower that all your friends also have",
+    "option2": "have a real superpower but be the only one of your friends who has it",
+    "category": "Friends"
+  },
+  {
+    "option1": "have to finish all your friend's jokes, even the terrible ones",
+    "option2": "have to laugh at all of your friend's jokes",
+    "category": "Friends"
+  },
+  {
+    "option1": "have your friend set you up on a blind date",
+    "option2": "have to set your friend up on a blind date",
+    "category": "Friends"
+  },
+  {
+    "option1": "fuse with your best friend to become one person",
+    "option2": "be able to clone your friends to have multiple versions of them",
+    "category": "Friends"
+  },
+  {
+    "option1": "compete on a survival game show with friends and eat insects",
+    "option2": "compete on a race around the world with friends and sleep in strangers' homes",
+    "category": "Friends"
+  },
+  {
+    "option1": "have a friend who can see the future but only predicts disasters",
+    "option2": "have a friend who can read minds but only picks up awkward thoughts",
+    "category": "Friends"
+  },
+  {
+    "option1": "explain a super complicated board game rule to your drunk friends",
+    "option2": "try to assemble flat-pack furniture with your friends",
+    "category": "Friends"
+  },
+  {
+    "option1": "have your friends tag you in all the ugly party photos",
+    "option2": "never get tagged by your friends, even in the good photos",
+    "category": "Friends"
+  },
+  {
+    "option1": "have a friend who can perfectly imitate any voice, including yours",
+    "option2": "have a friend who's a ventriloquist and makes objects talk",
+    "category": "Friends"
+  },
+  {
+    "option1": "create a ridiculous victory dance with your friends for every small success",
+    "option2": "have a super embarrassing shared battle cry with your friends",
+    "category": "Friends"
+  },
+  {
+    "option1": "watch every game of your friend's favorite sports team",
+    "option2": "watch every season of your friend's favorite TV show, even though you hate it",
+    "category": "Friends"
+  },
+  {
+    "option1": "have a friend who turns everything they touch into cheese",
+    "option2": "have a friend who attracts every pigeon in the city",
+    "category": "Friends"
+  },
+  {
+    "option1": "have your friends be able to see your dreams",
+    "option2": "be able to see your friends' dreams",
+    "category": "Friends"
+  },
+  {
+    "option1": "play Pictionary where your friend draws like a toddler",
+    "option2": "play a trivia game where your friend doesn't know any celebrities",
+    "category": "Friends"
+  },
+  {
+    "option1": "accidentally end up in a musical with your friends",
+    "option2": "accidentally end up in a horror movie with your friends",
+    "category": "Friends"
+  },
+  {
+    "option1": "have a friend who only speaks in rhyme",
+    "option2": "have a friend who only replies using movie quotes",
+    "category": "Friends"
+  },
+  {
+    "option1": "swap wardrobes with your most stylish friend for a week",
+    "option2": "swap wardrobes with your least stylish friend for a week",
+    "category": "Friends"
+  },
+  {
+    "option1": "have your friend secretly turn out to be a superhero",
+    "option2": "have your friend secretly turn out to be an alien",
+    "category": "Friends"
+  },
+  {
+    "option1": "eat the weirdest local delicacy from your friend's hometown",
+    "option2": "listen to your friend's parents' favorite awful music on repeat",
+    "category": "Friends"
+  },
+  {
+    "option1": "have an invisible friend who follows you everywhere",
+    "option2": "have an imaginary friend who comments on everything you do",
+    "category": "Friends"
+  },
+  {
+    "option1": "wear matching outfits with your entire friend group once a week",
+    "option2": "have a completely ridiculous secret handshake with your friends",
+    "category": "Friends"
+  },
+  {
+    "option1": "have a friend who controls the weather with their mood",
+    "option2": "have a friend who can talk to squirrels that make fun of you",
+    "category": "Friends"
+  },
+  {
+    "option1": "trick your friend into thinking they won the lottery",
+    "option2": "pull a prank on your friend that makes them scream in terror",
+    "category": "Friends"
+  },
+  {
+    "option1": "have a friend who can teleport but always forgets someone",
+    "option2": "have a friend who can read minds but gets everything mixed up",
+    "category": "Friends"
+  },
+  {
+    "option1": "get lost in a giant furniture store with your friends and no map",
+    "option2": "try to cook a complicated recipe with your friends for the first time",
+    "category": "Friends"
+  },
+  {
+    "option1": "have a friend who's an absolute genius but socially awkward",
+    "option2": "have a friend who's the complete opposite, charming but not too bright",
+    "category": "Friends"
+  },
+  {
+    "option1": "share your streaming account with all your friends and their families",
+    "option2": "never be able to watch a show with your friends again",
+    "category": "Friends"
+  },
+  {
+    "option1": "finish everyone's leftovers at a restaurant with your friends",
+    "option2": "always be the first to taste the suspicious-looking dish",
+    "category": "Friends"
+  },
+  {
+    "option1": "let your friends give you a ridiculous nickname you must keep forever",
+    "option2": "have to call your best friend by a super formal title forever",
+    "category": "Friends"
+  },
+  {
+    "option1": "re-enact a famous movie scene with your friends in public",
+    "option2": "invent your own overly complicated friend group handshake",
+    "category": "Friends"
+  },
+  {
+    "option1": "have a friend who attracts good luck, but only for themselves",
+    "option2": "have a friend who attracts bad luck, but is hilarious about it",
+    "category": "Friends"
+  },
+  {
+    "option1": "have to sing everything you say for 24 hours in front of your friends",
+    "option2": "only be able to communicate through drawings for 24 hours",
+    "category": "Friends"
+  },
+  {
+    "option1": "have your friends throw you fully clothed into a pool for your birthday",
+    "option2": "have your friends decorate your car in a super tacky way",
+    "category": "Friends"
+  },
+  {
+    "option1": "watch an entire season of trashy reality TV with your friends",
+    "option2": "watch a three-hour nature documentary about slugs with your friends",
+    "category": "Friends"
+  },
+  {
+    "option1": "have your friend give you a surprise haircut",
+    "option2": "have your friend choose your outfit for an important event",
+    "category": "Friends"
+  },
+  {
+    "option1": "invent a completely fake story to cover for a friend",
+    "option2": "confess a minor personal embarrassment to save a friend",
+    "category": "Friends"
+  },
+  {
+    "option1": "be stuck in a one-day time loop with your friends",
+    "option2": "live through a week where you swap personalities with a friend each day",
+    "category": "Friends"
+  },
+  {
+    "option1": "have your friend wake you up in the middle of the night with a terrible idea",
+    "option2": "have your friend spam you with memes nonstop",
+    "category": "Friends"
+  },
+  {
+    "option1": "have a friend who can turn you invisible but not themselves",
+    "option2": "have a friend who can fly but is terrified of heights",
+    "category": "Friends"
+  },
+  {
+    "option1": "taste every one of the world's hottest sauces with your friends",
+    "option2": "compete with your friends to see who can go longest without laughing",
+    "category": "Friends"
+  },
+  {
+    "option1": "have your friends plan your bachelor or bachelorette party, even if it's way off base",
+    "option2": "be the one who has to plan theirs instead",
+    "category": "Friends"
+  },
+  {
+    "option1": "have your friends know you inside out and anticipate all your needs",
+    "option2": "have your friends constantly surprise you",
+    "category": "Friends"
+  },
+  {
+    "option1": "never be able to play Would You Rather with your friends again",
+    "option2": "have to answer every Would You Rather question honestly, even the awkward ones",
+    "category": "Friends"
+  },
+  {
+    "option1": "have your friend group star in a reality TV show",
+    "option2": "have your friend group star in a serious documentary",
+    "category": "Friends"
+  },
+  {
+    "option1": "always be the designated driver on nights out",
+    "option2": "always be the one who falls asleep first at parties",
+    "category": "Friends"
+  },
+  {
+    "option1": "have a friend who's brutally honest",
+    "option2": "have a friend who always tells you what you want to hear",
+    "category": "Friends"
+  },
+  {
+    "option1": "go on a road trip with friends and no playlist",
+    "option2": "go on a road trip with friends and no snacks",
+    "category": "Friends"
+  },
+  {
+    "option1": "win a group vacation for all your friends",
+    "option2": "win a solo luxury getaway just for yourself",
+    "category": "Friends"
+  },
+  {
+    "option1": "hang out with friends only in big groups of ten or more",
+    "option2": "hang out with friends only one-on-one for the rest of your life",
+    "category": "Friends"
+  },
+  {
+    "option1": "have a friend who remembers every embarrassing thing you've ever done",
+    "option2": "have a friend who forgets your birthday every single year",
+    "category": "Friends"
+  },
+  {
+    "option1": "do karaoke in front of a room full of strangers",
+    "option2": "perform a dance routine in front of all your friends",
+    "category": "Friends"
+  },
+  {
+    "option1": "be the funny friend in the group",
+    "option2": "be the reliable friend in the group",
+    "category": "Friends"
+  },
+  {
+    "option1": "always be the one who hosts game night",
+    "option2": "always be the one who has to bring the food",
+    "category": "Friends"
+  },
+  {
+    "option1": "have your friends roast you for ten minutes straight",
+    "option2": "watch a cringe video of yourself from middle school with your friends",
+    "category": "Friends"
+  },
+  {
+    "option1": "have a weekly mandatory dinner with friends",
+    "option2": "have one epic adventure with friends every month",
+    "category": "Friends"
+  },
+  {
+    "option1": "always be the one taking group photos",
+    "option2": "always be the one who blinks in every group photo",
+    "category": "Friends"
+  },
+  {
+    "option1": "go camping with your friends with no wifi",
+    "option2": "stay home alone with unlimited wifi and miss the trip with friends",
+    "category": "Friends"
+  },
+  {
+    "option1": "get matching tattoos with your best friend",
+    "option2": "wear matching outfits with your best friend every day for a month",
+    "category": "Friends"
+  },
+  {
+    "option1": "have a friend who spoils every movie",
+    "option2": "have a friend who talks through the entire movie",
+    "category": "Friends"
+  },
+  {
+    "option1": "play board games at every friend hangout",
+    "option2": "play video games at every friend hangout",
+    "category": "Friends"
+  },
+  {
+    "option1": "have your friends throw you a surprise party",
+    "option2": "plan a party together with your friends instead",
+    "category": "Friends"
+  },
+  {
+    "option1": "have a friend who overshares everything",
+    "option2": "have a friend who never opens up about anything",
+    "category": "Friends"
+  },
+  {
+    "option1": "have a friend who always borrows your stuff",
+    "option2": "have a friend who never lets you borrow theirs",
+    "category": "Friends"
+  },
+  {
+    "option1": "know the truth about what your friends really think of you",
+    "option2": "stay blissfully unaware of what your friends think of you",
+    "category": "Friends"
+  },
+  {
+    "option1": "lose all your old friends and make an entirely new group",
+    "option2": "keep your current friends but never make another new friend",
+    "category": "Friends"
+  },
+  {
+    "option1": "be the most successful person in your friend group",
+    "option2": "be the happiest person in your friend group",
+    "category": "Friends"
+  },
+  {
+    "option1": "have one best friend you can tell anything to",
+    "option2": "have ten good friends who are always around",
+    "category": "Friends"
+  },
+  {
+    "option1": "forgive a friend who betrayed your trust",
+    "option2": "cut off a friend who betrayed your trust completely",
+    "category": "Friends"
+  },
+  {
+    "option1": "grow apart from your closest friends slowly over time",
+    "option2": "have one big dramatic falling-out with a close friend",
+    "category": "Friends"
+  },
+  {
+    "option1": "know in advance when a friendship is going to end",
+    "option2": "be caught completely off guard when a friendship ends",
+    "category": "Friends"
+  },
+  {
+    "option1": "be friends with someone who challenges you constantly",
+    "option2": "be friends with someone who always agrees with you",
+    "category": "Friends"
+  },
+  {
+    "option1": "have a friend who's always giving advice",
+    "option2": "have a friend who just listens without giving advice",
+    "category": "Friends"
+  },
+  {
+    "option1": "be remembered by your friends as the fun one",
+    "option2": "be remembered by your friends as the one everyone could count on",
+    "category": "Friends"
+  },
+  {
+    "option1": "reconnect with a friendship you lost touch with",
+    "option2": "put that energy into strengthening the friendships you already have",
+    "category": "Friends"
+  },
+  {
+    "option1": "always be the one reaching out to friends first",
+    "option2": "have friends who always come to you first",
+    "category": "Friends"
+  },
+  {
+    "option1": "move to a new city where you have no friends",
+    "option2": "stay in your hometown with the same friend group forever",
+    "category": "Friends"
+  },
+  {
+    "option1": "have a friend who pushes you out of your comfort zone",
+    "option2": "have a friend who respects your boundaries completely",
+    "category": "Friends"
+  },
+  {
+    "option1": "know your friend's biggest secret",
+    "option2": "have your friend know your biggest secret",
+    "category": "Friends"
+  },
+  {
+    "option1": "have friends who are very different from you",
+    "option2": "have friends who think exactly like you",
+    "category": "Friends"
+  },
+  {
+    "option1": "spend quality time with just a few close friends",
+    "option2": "have a packed social calendar full of friends",
+    "category": "Friends"
+  },
+  {
+    "option1": "have a friend who's always relentlessly positive",
+    "option2": "have a friend who's always brutally realistic",
+    "category": "Friends"
+  },
+  {
+    "option1": "be the leader of your friend group",
+    "option2": "just go with the flow in your friend group",
+    "category": "Friends"
+  },
+  {
+    "option1": "have a lifetime friendship that's sometimes rocky",
+    "option2": "have a short friendship that was completely perfect",
+    "category": "Friends"
+  },
+  {
+    "option1": "be the friend people come to for advice",
+    "option2": "be the friend people come to for a good time",
+    "category": "Friends"
+  },
+  {
+    "option1": "lose contact with all your friends for a year and then reconnect",
+    "option2": "slowly drift apart from one close friend permanently",
+    "category": "Friends"
+  },
+  {
+    "option1": "have your most embarrassing photo posted on social media by a friend",
+    "option2": "have your most embarrassing text conversation read out loud to your friends",
+    "category": "Friends"
+  },
+  {
+    "option1": "fart loudly in a quiet room full of friends",
+    "option2": "burp loudly in the middle of giving a toast",
+    "category": "Friends"
+  },
+  {
+    "option1": "have your best friend move across the world",
+    "option2": "see your best friend every day but never get to hang out one-on-one",
+    "category": "Friends"
+  },
+  {
+    "option1": "have your best friend be your roommate",
+    "option2": "have your best friend be your coworker",
+    "category": "Friends"
+  },
+  {
+    "option1": "go through something hard completely alone",
+    "option2": "drag your best friend into your hard situation with you",
+    "category": "Friends"
+  },
+  {
+    "option1": "take a bullet for your best friend",
+    "option2": "have your best friend take a bullet for you",
+    "category": "Friends"
+  },
+  {
+    "option1": "start a business with your best friend",
+    "option2": "travel the world with your best friend for a year",
+    "category": "Friends"
+  },
+  {
+    "option1": "always agree with your best friend",
+    "option2": "have healthy arguments with your best friend that make you both grow",
+    "category": "Friends"
+  },
+  {
+    "option1": "swap lives with your best friend for a month",
+    "option2": "let your best friend live your life while you watch",
+    "category": "Friends"
+  },
+  {
+    "option1": "be stuck on a deserted island with your best friend",
+    "option2": "be stuck on a deserted island with a survival expert you've never met",
+    "category": "Friends"
+  },
+  {
+    "option1": "give up social media for a year",
+    "option2": "not see your best friend for a year",
+    "category": "Friends"
+  },
+  {
+    "option1": "go on an unplanned adventure with your best friend right now",
+    "option2": "spend months planning the perfect trip with your best friend for next year",
+    "category": "Friends"
+  },
+  {
+    "option1": "compete against your best friend for something you both want",
+    "option2": "step aside and let your best friend have it",
+    "category": "Friends"
+  },
+  {
+    "option1": "grow old living next door to your best friend",
+    "option2": "travel separate paths and reunite with your best friend every few years",
+    "category": "Friends"
+  },
+  {
+    "option1": "tell your best friend everything you've never said to them",
+    "option2": "hear everything your best friend has never said to you",
+    "category": "Friends"
+  },
+  {
+    "option1": "lose all your friends but win the lottery",
+    "option2": "keep all your friends but stay broke forever",
+    "category": "Friends"
+  },
+  {
+    "option1": "date your best friend",
+    "option2": "date someone you don't know at all",
+    "category": "Friends"
+  },
+  {
+    "option1": "have none of your friends like your partner",
+    "option2": "have none of your partner's friends like you",
+    "category": "Friends"
+  },
+  {
+    "option1": "never have a best friend but have a long and happy marriage",
+    "option2": "never get married but have amazing best friends for life",
+    "category": "Friends"
+  },
+  {
+    "option1": "find true love but never have close friends",
+    "option2": "have many close friends but never find true love",
+    "category": "Friends"
+  },
+  {
+    "option1": "have lots of money but few friends",
+    "option2": "have lots of friends but very little money",
+    "category": "Friends"
+  },
+  {
+    "option1": "have only one best friend for the rest of your life",
+    "option2": "have ten good friends who all live in other countries",
+    "category": "Friends"
+  },
+  {
+    "option1": "be popular in your friend group but have fake friends",
+    "option2": "be unpopular but have real, genuine friends",
+    "category": "Friends"
+  },
+  {
+    "option1": "work on a remote team",
+    "option2": "work in a traditional office",
+    "category": "Occupation"
+  },
+  {
+    "option1": "work in a client-facing role",
+    "option2": "work behind the scenes",
+    "category": "Occupation"
+  },
+  {
+    "option1": "work on a team that prioritizes efficiency",
+    "option2": "work on a team that prioritizes creativity",
+    "category": "Occupation"
+  },
+  {
+    "option1": "have complete freedom at work",
+    "option2": "have strict instructions to follow",
+    "category": "Occupation"
+  },
+  {
+    "option1": "have tight work deadlines",
+    "option2": "have relaxed work deadlines",
+    "category": "Occupation"
+  },
+  {
+    "option1": "work on projects that are highly profitable",
+    "option2": "work on projects that are socially impactful",
+    "category": "Occupation"
+  },
+  {
+    "option1": "be a big fish in a small pond",
+    "option2": "be a small fish in a big pond",
+    "category": "Occupation"
+  },
+  {
+    "option1": "have lots of responsibility at work",
+    "option2": "have none at all",
+    "category": "Occupation"
+  },
+  {
+    "option1": "work from home in your pajamas",
+    "option2": "work in the office in a suit",
+    "category": "Occupation"
+  },
+  {
+    "option1": "eat lunch at your desk and go home early",
+    "option2": "eat lunch outside with colleagues and leave at the regular time",
+    "category": "Occupation"
+  },
+  {
+    "option1": "have a team lunch every day",
+    "option2": "have a happy hour once a week",
+    "category": "Occupation"
+  },
+  {
+    "option1": "play music in the office",
+    "option2": "work in silence",
+    "category": "Occupation"
+  },
+  {
+    "option1": "work long hours for more money",
+    "option2": "work a 4-day week for less",
+    "category": "Occupation"
+  },
+  {
+    "option1": "work on a team of super ambitious people",
+    "option2": "work on a team of super laidback people",
+    "category": "Occupation"
+  },
+  {
+    "option1": "start work early and go home early",
+    "option2": "start work late and go home late",
+    "category": "Occupation"
+  },
+  {
+    "option1": "work on innovative projects",
+    "option2": "work on projects that are tried and tested",
+    "category": "Occupation"
+  },
+  {
+    "option1": "have a full-time job with financial stability",
+    "option2": "work from anywhere with a less predictable income",
+    "category": "Occupation"
+  },
+  {
+    "option1": "have more paid vacation time",
+    "option2": "have more paid training",
+    "category": "Occupation"
+  },
+  {
+    "option1": "have a highly specialized role",
+    "option2": "have a role with a broad range of responsibilities",
+    "category": "Occupation"
+  },
+  {
+    "option1": "work somewhere with high potential for career growth",
+    "option2": "work somewhere with a great work-life balance",
+    "category": "Occupation"
+  },
+  {
+    "option1": "have a clear line of progression through a company",
+    "option2": "have the chance to explore many different roles within it",
+    "category": "Occupation"
+  },
+  {
+    "option1": "work in a small, agile startup",
+    "option2": "work in a large, slow-moving corporation",
+    "category": "Occupation"
+  },
+  {
+    "option1": "prioritize results at work",
+    "option2": "prioritize company culture",
+    "category": "Occupation"
+  },
+  {
+    "option1": "have a manager who gives you lots of support",
+    "option2": "have a manager who gives you lots of autonomy",
+    "category": "Occupation"
+  },
+  {
+    "option1": "work somewhere that celebrates individual achievements",
+    "option2": "work somewhere that celebrates team achievements",
+    "category": "Occupation"
+  },
+  {
+    "option1": "work somewhere with a flat organizational structure",
+    "option2": "work somewhere with a hierarchical structure",
+    "category": "Occupation"
+  },
+  {
+    "option1": "earn the same high salary as everyone else",
+    "option2": "earn more as you take on additional responsibility",
+    "category": "Occupation"
+  },
+  {
+    "option1": "plan a project",
+    "option2": "execute a project",
+    "category": "Occupation"
+  },
+  {
+    "option1": "work in the same place your whole career",
+    "option2": "change roles or organizations every 6-12 months",
+    "category": "Occupation"
+  },
+  {
+    "option1": "work in an office culture that prioritizes competition",
+    "option2": "work in an office culture that prioritizes collaboration",
+    "category": "Occupation"
+  },
+  {
+    "option1": "take risks at work",
+    "option2": "pursue easy wins at work",
+    "category": "Occupation"
+  },
+  {
+    "option1": "prioritize workplace productivity",
+    "option2": "prioritize employee well-being",
+    "category": "Occupation"
+  },
+  {
+    "option1": "travel for work",
+    "option2": "work in your local community",
+    "category": "Occupation"
+  },
+  {
+    "option1": "earn more working from the office",
+    "option2": "earn less working from home",
+    "category": "Occupation"
+  },
+  {
+    "option1": "work standing up at all times",
+    "option2": "work kneeling down at all times",
+    "category": "Occupation"
+  },
+  {
+    "option1": "have no control over what you say at work",
+    "option2": "have no control over what you do at work",
+    "category": "Occupation"
+  },
+  {
+    "option1": "work in an office that's freezing cold",
+    "option2": "work in an office that's scorching hot",
+    "category": "Occupation"
+  },
+  {
+    "option1": "work in an office with no air-conditioning",
+    "option2": "work in an office with no coffee machine",
+    "category": "Occupation"
+  },
+  {
+    "option1": "wear a Hawaiian shirt to work every day",
+    "option2": "wear a tuxedo to work every day",
+    "category": "Occupation"
+  },
+  {
+    "option1": "work for a boss like Michael Scott",
+    "option2": "work for a boss like Mr. Burns",
+    "category": "Occupation"
+  },
+  {
+    "option1": "work your current job for a year at double your pay",
+    "option2": "take a year off making what you make now",
+    "category": "Occupation"
+  },
+  {
+    "option1": "accidentally reply-all to a company-wide email complaining about your job",
+    "option2": "have your most embarrassing search history displayed on your work computer",
+    "category": "Occupation"
+  },
+  {
+    "option1": "work a job with four 10-hour days",
+    "option2": "work a job with five 8-hour days",
+    "category": "Occupation"
+  },
+  {
+    "option1": "always attend meetings standing up",
+    "option2": "never be allowed to take notes during meetings",
+    "category": "Occupation"
+  },
+  {
+    "option1": "have a boss who micromanages everything",
+    "option2": "have a boss who's never around",
+    "category": "Occupation"
+  },
+  {
+    "option1": "work in an office with no windows",
+    "option2": "work from home with unreliable internet",
+    "category": "Occupation"
+  },
+  {
+    "option1": "have unlimited vacation time but a 20% pay cut",
+    "option2": "keep your current salary with only two weeks off",
+    "category": "Occupation"
+  },
+  {
+    "option1": "always present to large groups",
+    "option2": "never be allowed to present your ideas publicly",
+    "category": "Occupation"
+  },
+  {
+    "option1": "work on a team where everyone thinks exactly like you",
+    "option2": "work on a team where everyone has completely different perspectives",
+    "category": "Occupation"
+  },
+  {
+    "option1": "have a job that's easy but boring",
+    "option2": "have a job that's challenging but stressful",
+    "category": "Occupation"
+  },
+  {
+    "option1": "always work in complete silence",
+    "option2": "always work with constant background noise",
+    "category": "Occupation"
+  },
+  {
+    "option1": "have a 30-minute commute to your dream job",
+    "option2": "work from home doing something you find mediocre",
+    "category": "Occupation"
+  },
+  {
+    "option1": "be the smartest person on your team",
+    "option2": "be the least experienced person learning from experts",
+    "category": "Occupation"
+  },
+  {
+    "option1": "always eat lunch at your desk",
+    "option2": "never be allowed to eat at work",
+    "category": "Occupation"
+  },
+  {
+    "option1": "work for a company with amazing benefits but low pay",
+    "option2": "work for a company with high pay but minimal benefits",
+    "category": "Occupation"
+  },
+  {
+    "option1": "have a job where you travel 50% of the time",
+    "option2": "never travel for work",
+    "category": "Occupation"
+  },
+  {
+    "option1": "have an office with a great view but no privacy",
+    "option2": "have a private office with no windows",
+    "category": "Occupation"
+  },
+  {
+    "option1": "work on projects with tight deadlines and high pressure",
+    "option2": "work on projects with loose deadlines and unclear expectations",
+    "category": "Occupation"
+  },
+  {
+    "option1": "have a job where you're always learning new skills",
+    "option2": "have a job where you're the recognized expert",
+    "category": "Occupation"
+  },
+  {
+    "option1": "work for a startup with an uncertain future but exciting projects",
+    "option2": "work for a stable corporation with predictable work",
+    "category": "Occupation"
+  },
+  {
+    "option1": "collaborate with a coworker who communicates only through email",
+    "option2": "collaborate with a coworker who communicates only through phone calls",
+    "category": "Occupation"
+  },
+  {
+    "option1": "be responsible for motivating your team",
+    "option2": "be the person everyone comes to for technical expertise",
+    "category": "Occupation"
+  },
+  {
+    "option1": "have a project partner who's always early but unprepared",
+    "option2": "have a project partner who's always late but thoroughly prepared",
+    "category": "Occupation"
+  },
+  {
+    "option1": "work on a team that makes decisions by consensus",
+    "option2": "work on a team with one designated decision-maker",
+    "category": "Occupation"
+  },
+  {
+    "option1": "work on a team where everyone works independently",
+    "option2": "work on a team where everything is done collaboratively",
+    "category": "Occupation"
+  },
+  {
+    "option1": "be the person who keeps the team organized",
+    "option2": "be the person who generates creative ideas",
+    "category": "Occupation"
+  },
+  {
+    "option1": "have a project partner who's reliable but never innovative",
+    "option2": "have a project partner who's innovative but sometimes unreliable",
+    "category": "Occupation"
+  },
+  {
+    "option1": "have a teammate who's brilliant but difficult to work with",
+    "option2": "have a teammate who's average but incredibly supportive",
+    "category": "Occupation"
+  },
+  {
+    "option1": "lead a project with a tight deadline",
+    "option2": "be a team member on a project with unlimited time",
+    "category": "Occupation"
+  },
+  {
+    "option1": "master one skill completely",
+    "option2": "be average at ten different skills",
+    "category": "Occupation"
+  },
+  {
+    "option1": "attend a conference in your field",
+    "option2": "shadow someone in a completely different industry",
+    "category": "Occupation"
+  },
+  {
+    "option1": "have a mentor who's incredibly successful but intimidating",
+    "option2": "have a mentor who's approachable but less accomplished",
+    "category": "Occupation"
+  },
+  {
+    "option1": "be known for your technical expertise",
+    "option2": "be known for your leadership abilities",
+    "category": "Occupation"
+  },
+  {
+    "option1": "take on a challenging project with a high chance of failure",
+    "option2": "take on a safe project with guaranteed success",
+    "category": "Occupation"
+  },
+  {
+    "option1": "have your dream job at a company whose values don't align with yours",
+    "option2": "have an okay job at a company you believe in",
+    "category": "Occupation"
+  },
+  {
+    "option1": "be promoted quickly but feel unprepared",
+    "option2": "stay in your current role until you've mastered everything",
+    "category": "Occupation"
+  },
+  {
+    "option1": "have a career that's stable and predictable",
+    "option2": "have a career that's exciting but uncertain",
+    "category": "Occupation"
+  },
+  {
+    "option1": "have a boss who's a great teacher but a poor advocate for your career",
+    "option2": "have a boss who's not great at teaching but fights for your advancement",
+    "category": "Occupation"
+  },
+  {
+    "option1": "have video calls where everyone keeps their camera on",
+    "option2": "have video calls where no one is allowed to use a camera",
+    "category": "Occupation"
+  },
+  {
+    "option1": "have flexible hours but be expected to respond to messages anytime",
+    "option2": "have fixed hours with a complete disconnect after work",
+    "category": "Occupation"
+  },
+  {
+    "option1": "work from home every day",
+    "option2": "have a hybrid schedule where you never know which days you'll be in the office",
+    "category": "Occupation"
+  },
+  {
+    "option1": "work for a company that's transparent about everything, including salaries",
+    "option2": "work for a company that keeps business information private",
+    "category": "Occupation"
+  },
+  {
+    "option1": "lead by example and let others follow naturally",
+    "option2": "take charge and give clear directions",
+    "category": "Occupation"
+  },
+  {
+    "option1": "be a leader who's loved by their team but not respected by upper management",
+    "option2": "be a leader who's respected by management but not liked by your team",
+    "category": "Occupation"
+  },
+  {
+    "option1": "make tough decisions alone and take full responsibility",
+    "option2": "involve your team in difficult decisions and share accountability",
+    "category": "Occupation"
+  },
+  {
+    "option1": "have a job you're passionate about that requires 60-hour weeks",
+    "option2": "have an okay job that gives you plenty of personal time",
+    "category": "Occupation"
+  },
+  {
+    "option1": "work for a company whose mission you believe in deeply",
+    "option2": "work for a company that pays more but doesn't inspire you",
+    "category": "Occupation"
+  },
+  {
+    "option1": "take a sabbatical every five years",
+    "option2": "have an extra week of vacation every year",
+    "category": "Occupation"
+  },
+  {
+    "option1": "work somewhere that encourages side projects and entrepreneurship",
+    "option2": "work somewhere that expects complete focus on your primary role",
+    "category": "Occupation"
+  },
+  {
+    "option1": "prioritize earning potential in your career",
+    "option2": "prioritize making a positive impact in your career",
+    "category": "Occupation"
+  },
+  {
+    "option1": "have a corner office",
+    "option2": "have a flexible work-from-home schedule",
+    "category": "Occupation"
+  },
+  {
+    "option1": "have a short commute",
+    "option2": "have a higher salary",
+    "category": "Occupation"
+  },
+  {
+    "option1": "work overtime for a bonus",
+    "option2": "leave early for free",
+    "category": "Occupation"
+  },
+  {
+    "option1": "have a mentor",
+    "option2": "be a mentor to someone",
+    "category": "Occupation"
+  },
+  {
+    "option1": "attend endless meetings",
+    "option2": "write endless reports",
+    "category": "Occupation"
+  },
+  {
+    "option1": "get a promotion",
+    "option2": "get a pay raise",
+    "category": "Occupation"
+  },
+  {
+    "option1": "work with data all day",
+    "option2": "work with people all day",
+    "category": "Occupation"
+  },
+  {
+    "option1": "do creative work",
+    "option2": "do analytical tasks",
+    "category": "Occupation"
+  },
+  {
+    "option1": "trip in a meeting",
+    "option2": "sneeze on a coworker",
+    "category": "Occupation"
+  },
+  {
+    "option1": "spill coffee on your boss",
+    "option2": "spill coffee on your laptop",
+    "category": "Occupation"
+  },
+  {
+    "option1": "be stuck in an elevator with your boss",
+    "option2": "be stuck in an elevator with a client",
+    "category": "Occupation"
+  },
+  {
+    "option1": "have unlimited coffee at the office",
+    "option2": "have unlimited snacks at the office",
+    "category": "Occupation"
+  },
+  {
+    "option1": "get extra vacation days",
+    "option2": "get a bigger bonus",
+    "category": "Occupation"
+  },
+  {
+    "option1": "get a company car",
+    "option2": "get a home office stipend",
+    "category": "Occupation"
+  },
+  {
+    "option1": "train others at work",
+    "option2": "keep learning new things yourself",
+    "category": "Occupation"
+  },
+  {
+    "option1": "work abroad",
+    "option2": "climb the ladder locally",
+    "category": "Occupation"
+  },
+  {
+    "option1": "have a side hustle",
+    "option2": "focus entirely on your main job",
+    "category": "Occupation"
+  },
+  {
+    "option1": "get public recognition at work",
+    "option2": "get private praise at work",
+    "category": "Occupation"
+  },
+  {
+    "option1": "have a long career",
+    "option2": "retire early",
+    "category": "Occupation"
+  },
+  {
+    "option1": "have a coach guide your career",
+    "option2": "figure your career out alone",
+    "category": "Occupation"
+  },
+  {
+    "option1": "have a big professional network",
+    "option2": "have deep expertise",
+    "category": "Occupation"
+  },
+  {
+    "option1": "work for a visionary boss",
+    "option2": "work for a practical boss",
+    "category": "Occupation"
+  },
+  {
+    "option1": "be known for your creativity at work",
+    "option2": "be known for your reliability at work",
+    "category": "Occupation"
+  },
+  {
+    "option1": "pivot to a new career",
+    "option2": "stay the course in your current one",
+    "category": "Occupation"
+  },
+  {
+    "option1": "communicate at work only by email",
+    "option2": "communicate at work only by instant messaging",
+    "category": "Occupation"
+  },
+  {
+    "option1": "have a company-issued phone",
+    "option2": "use your personal phone for work",
+    "category": "Occupation"
+  },
+  {
+    "option1": "use Slack for team chats",
+    "option2": "use email for team chats",
+    "category": "Occupation"
+  },
+  {
+    "option1": "have a chatty client",
+    "option2": "have a quiet client",
+    "category": "Occupation"
+  },
+  {
+    "option1": "pitch to a big client",
+    "option2": "pitch to a small client",
+    "category": "Occupation"
+  },
+  {
+    "option1": "meet clients in-person",
+    "option2": "meet clients over video",
+    "category": "Occupation"
+  },
+  {
+    "option1": "have a demanding client",
+    "option2": "have an indecisive client",
+    "category": "Occupation"
+  },
+  {
+    "option1": "negotiate prices with every client",
+    "option2": "stick to a set rate with every client",
+    "category": "Occupation"
+  },
+  {
+    "option1": "sell a product",
+    "option2": "sell a service",
+    "category": "Occupation"
+  },
+  {
+    "option1": "have a client who's blunt",
+    "option2": "have a client who's overly polite",
+    "category": "Occupation"
+  },
+  {
+    "option1": "have a standing desk",
+    "option2": "have a desk treadmill",
+    "category": "Occupation"
+  },
+  {
+    "option1": "work for a company that values creativity",
+    "option2": "work for a company that values structure",
+    "category": "Occupation"
+  },
+  {
+    "option1": "have unlimited PTO but a strict boss",
+    "option2": "have limited PTO but a laid-back boss",
+    "category": "Occupation"
+  },
+  {
+    "option1": "accidentally hit \"Reply All\" on an embarrassing email",
+    "option2": "forget to mute yourself during a meeting",
+    "category": "Occupation"
+  },
+  {
+    "option1": "attend a team meeting dressed as a mascot",
+    "option2": "deliver a presentation in your pajamas",
+    "category": "Occupation"
+  },
+  {
+    "option1": "work with a coworker who always sings",
+    "option2": "work with a coworker who always whistles",
+    "category": "Occupation"
+  },
+  {
+    "option1": "always work on team projects",
+    "option2": "always work solo",
+    "category": "Occupation"
+  },
+  {
+    "option1": "have a team that's highly competitive",
+    "option2": "have a team that's very laid-back",
+    "category": "Occupation"
+  },
+  {
+    "option1": "lead a difficult team",
+    "option2": "follow an ineffective leader",
+    "category": "Occupation"
+  },
+  {
+    "option1": "collaborate with a coworker you don't like",
+    "option2": "work on a project you dislike",
+    "category": "Occupation"
+  },
+  {
+    "option1": "be the most skilled person on your team",
+    "option2": "be the least skilled person on your team",
+    "category": "Occupation"
+  },
+  {
+    "option1": "take a longer lunch break",
+    "option2": "leave work earlier",
+    "category": "Occupation"
+  },
+  {
+    "option1": "have no commute but a lower-paying job",
+    "option2": "have a long commute with a high-paying job",
+    "category": "Occupation"
+  },
+  {
+    "option1": "have a job you love with no stability",
+    "option2": "have a job you dislike with long-term security",
+    "category": "Occupation"
+  },
+  {
+    "option1": "always check emails after hours",
+    "option2": "never check emails at all",
+    "category": "Occupation"
+  },
+  {
+    "option1": "have unlimited vacation days but no holidays off",
+    "option2": "have all holidays off but no extra vacation days",
+    "category": "Occupation"
+  },
+  {
+    "option1": "attend a cringey team-building retreat",
+    "option2": "attend an overly formal company dinner",
+    "category": "Occupation"
+  },
+  {
+    "option1": "have your dream job with a terrible boss",
+    "option2": "have a good job with an amazing boss",
+    "category": "Occupation"
+  },
+  {
+    "option1": "get a promotion without a raise",
+    "option2": "get a raise without a title change",
+    "category": "Occupation"
+  },
+  {
+    "option1": "move up quickly in your career but have no work-life balance",
+    "option2": "progress slowly with more time for yourself",
+    "category": "Occupation"
+  },
+  {
+    "option1": "be respected at work but not liked",
+    "option2": "be liked at work but not respected",
+    "category": "Occupation"
+  },
+  {
+    "option1": "work remotely but always feel isolated",
+    "option2": "work in an office but never have privacy",
+    "category": "Occupation"
+  },
+  {
+    "option1": "lose all your work files for a week",
+    "option2": "lose your work calendar for a month",
+    "category": "Occupation"
+  },
+  {
+    "option1": "work with a coworker who never speaks",
+    "option2": "work with a coworker who never stops talking",
+    "category": "Occupation"
+  },
+  {
+    "option1": "get an annual bonus of $1,000 every year",
+    "option2": "get a surprise $5,000 bonus once every five years",
+    "category": "Occupation"
+  },
+  {
+    "option1": "come up with a million-dollar idea but not get credit for it",
+    "option2": "get credit for a mediocre idea",
+    "category": "Occupation"
+  },
+  {
+    "option1": "share a desk with someone who's super organized",
+    "option2": "share a desk with someone who's super messy",
+    "category": "Occupation"
+  },
+  {
+    "option1": "complete a task with no instructions",
+    "option2": "complete a task with overly detailed instructions",
+    "category": "Occupation"
+  },
+  {
+    "option1": "miss an important deadline",
+    "option2": "turn in incomplete work",
+    "category": "Occupation"
+  },
+  {
+    "option1": "have your performance review made public",
+    "option2": "have your salary made public",
+    "category": "Occupation"
+  },
+  {
+    "option1": "accidentally delete an important report",
+    "option2": "accidentally forward it to the wrong person",
+    "category": "Occupation"
+  },
+  {
+    "option1": "be known as reliable but boring at work",
+    "option2": "be known as exciting but unpredictable at work",
+    "category": "Occupation"
+  },
+  {
+    "option1": "be recognized for your efforts by your team",
+    "option2": "be recognized for your efforts by your boss",
+    "category": "Occupation"
+  },
+  {
+    "option1": "have a reputation for working hard",
+    "option2": "have a reputation for working smart",
+    "category": "Occupation"
+  },
+  {
+    "option1": "be a great leader in a struggling company",
+    "option2": "be an average leader in a thriving company",
+    "category": "Occupation"
+  },
+  {
+    "option1": "have a highly skilled but difficult-to-manage team",
+    "option2": "have an easygoing team that lacks skills",
+    "category": "Occupation"
+  },
+  {
+    "option1": "mentor a team of underdogs",
+    "option2": "mentor a team of all-stars",
+    "category": "Occupation"
+  },
+  {
+    "option1": "organize the company's biggest event of the year",
+    "option2": "manage the company's social media",
+    "category": "Occupation"
+  },
+  {
+    "option1": "never use paper at work again",
+    "option2": "always have to print everything out",
+    "category": "Occupation"
+  },
+  {
+    "option1": "travel by ship",
+    "option2": "travel by plane",
+    "category": "Recreation"
+  },
+  {
+    "option1": "travel abroad alone",
+    "option2": "travel abroad with a group",
+    "category": "Recreation"
+  },
+  {
+    "option1": "plan your own trip",
+    "option2": "let locals tell you the best things to do",
+    "category": "Recreation"
+  },
+  {
+    "option1": "visit Italy",
+    "option2": "visit Greece",
+    "category": "Recreation"
+  },
+  {
+    "option1": "vacation at the beach",
+    "option2": "vacation in the mountains",
+    "category": "Recreation"
+  },
+  {
+    "option1": "travel in a tiny house",
+    "option2": "travel in a camper van",
+    "category": "Recreation"
+  },
+  {
+    "option1": "book a pre-made travel tour",
+    "option2": "build your own itinerary from scratch",
+    "category": "Recreation"
+  },
+  {
+    "option1": "have unlimited free food at any restaurant for life",
+    "option2": "have unlimited free flights anywhere for life",
+    "category": "Recreation"
+  },
+  {
+    "option1": "vacation in China",
+    "option2": "vacation in India",
+    "category": "Recreation"
+  },
+  {
+    "option1": "drive across the country",
+    "option2": "fly across the country",
+    "category": "Recreation"
+  },
+  {
+    "option1": "sleep in a tent",
+    "option2": "rent a cabin",
+    "category": "Recreation"
+  },
+  {
+    "option1": "travel to Venice",
+    "option2": "travel to Rome",
+    "category": "Recreation"
+  },
+  {
+    "option1": "travel to London for a week",
+    "option2": "travel to New York City for a week",
+    "category": "Recreation"
+  },
+  {
+    "option1": "vacation in a major city",
+    "option2": "vacation in a remote location",
+    "category": "Recreation"
+  },
+  {
+    "option1": "vacation in Italy",
+    "option2": "vacation in Hawaii",
+    "category": "Recreation"
+  },
+  {
+    "option1": "travel to Mexico",
+    "option2": "travel to Brazil",
+    "category": "Recreation"
+  },
+  {
+    "option1": "have a beach vacation",
+    "option2": "have a ski vacation",
+    "category": "Recreation"
+  },
+  {
+    "option1": "sleep in a tent at a campsite for 7 days",
+    "option2": "stay in a nice hotel room for 2 days",
+    "category": "Recreation"
+  },
+  {
+    "option1": "go on a cruise ship",
+    "option2": "stay in a hotel",
+    "category": "Recreation"
+  },
+  {
+    "option1": "stay in an Airbnb",
+    "option2": "stay in a hostel",
+    "category": "Recreation"
+  },
+  {
+    "option1": "travel to New Zealand",
+    "option2": "travel to Iceland",
+    "category": "Recreation"
+  },
+  {
+    "option1": "stay in a 5-star hotel for a week",
+    "option2": "fly first class on a 24-hour round trip flight",
+    "category": "Recreation"
+  },
+  {
+    "option1": "win free airfare for life",
+    "option2": "win free hotel stays for life",
+    "category": "Recreation"
+  },
+  {
+    "option1": "travel by helicopter",
+    "option2": "travel by hot air balloon",
+    "category": "Recreation"
+  },
+  {
+    "option1": "miss your flight",
+    "option2": "lose your luggage",
+    "category": "Recreation"
+  },
+  {
+    "option1": "take a two-week paid vacation overseas",
+    "option2": "take a four-week paid vacation at home",
+    "category": "Recreation"
+  },
+  {
+    "option1": "go camping",
+    "option2": "stay at a nice hotel",
+    "category": "Recreation"
+  },
+  {
+    "option1": "take a long vacation in winter",
+    "option2": "take a long vacation in summer",
+    "category": "Recreation"
+  },
+  {
+    "option1": "spend your vacation alone",
+    "option2": "spend your vacation with someone else",
+    "category": "Recreation"
+  },
+  {
+    "option1": "do something active on vacation",
+    "option2": "relax the whole vacation",
+    "category": "Recreation"
+  },
+  {
+    "option1": "have a staycation",
+    "option2": "travel somewhere for vacation",
+    "category": "Recreation"
+  },
+  {
+    "option1": "travel to England",
+    "option2": "travel to Italy",
+    "category": "Recreation"
+  },
+  {
+    "option1": "travel to Australia",
+    "option2": "travel to New Zealand",
+    "category": "Recreation"
+  },
+  {
+    "option1": "travel to Canada",
+    "option2": "travel to the USA",
+    "category": "Recreation"
+  },
+  {
+    "option1": "travel to Thailand",
+    "option2": "travel to Taiwan",
+    "category": "Recreation"
+  },
+  {
+    "option1": "travel to South America",
+    "option2": "travel to Africa",
+    "category": "Recreation"
+  },
+  {
+    "option1": "plan a trip down to every detail",
+    "option2": "travel with minimal planning",
+    "category": "Recreation"
+  },
+  {
+    "option1": "stay at a hotel with a really good bed",
+    "option2": "stay at a hotel with a really clean bathroom",
+    "category": "Recreation"
+  },
+  {
+    "option1": "travel with someone who sticks to the plan",
+    "option2": "travel with someone who decides spontaneously",
+    "category": "Recreation"
+  },
+  {
+    "option1": "take a taxi when traveling",
+    "option2": "take a bus when traveling",
+    "category": "Recreation"
+  },
+  {
+    "option1": "travel the world for a year",
+    "option2": "stay home and work to make a lot of money",
+    "category": "Recreation"
+  },
+  {
+    "option1": "visit many countries in a short trip",
+    "option2": "stay in one country for a week",
+    "category": "Recreation"
+  },
+  {
+    "option1": "give up cheese forever",
+    "option2": "give up chocolate forever",
+    "category": "Recreation"
+  },
+  {
+    "option1": "only eat hot meals",
+    "option2": "only eat cold meals",
+    "category": "Recreation"
+  },
+  {
+    "option1": "have unlimited pizza for life",
+    "option2": "have unlimited tacos for life",
+    "category": "Recreation"
+  },
+  {
+    "option1": "eat your favorite meal alone",
+    "option2": "eat a mediocre meal with friends",
+    "category": "Recreation"
+  },
+  {
+    "option1": "give up coffee forever",
+    "option2": "give up tea forever",
+    "category": "Recreation"
+  },
+  {
+    "option1": "always eat with chopsticks",
+    "option2": "always eat with your hands",
+    "category": "Recreation"
+  },
+  {
+    "option1": "only eat spicy food",
+    "option2": "only eat bland food",
+    "category": "Recreation"
+  },
+  {
+    "option1": "eat a sandwich with no crust",
+    "option2": "eat a pizza with no cheese",
+    "category": "Recreation"
+  },
+  {
+    "option1": "dip your fries in ketchup",
+    "option2": "dip your fries in ice cream",
+    "category": "Recreation"
+  },
+  {
+    "option1": "have a peanut butter sandwich every day",
+    "option2": "never eat bread again",
+    "category": "Recreation"
+  },
+  {
+    "option1": "give up all desserts forever",
+    "option2": "give up all salty snacks forever",
+    "category": "Recreation"
+  },
+  {
+    "option1": "give up ice cream forever",
+    "option2": "give up french fries forever",
+    "category": "Recreation"
+  },
+  {
+    "option1": "only eat Italian food forever",
+    "option2": "only eat Mexican food forever",
+    "category": "Recreation"
+  },
+  {
+    "option1": "always order takeout",
+    "option2": "always cook at home",
+    "category": "Recreation"
+  },
+  {
+    "option1": "give up all fast food",
+    "option2": "give up all fine dining",
+    "category": "Recreation"
+  },
+  {
+    "option1": "try every cuisine once",
+    "option2": "master one cuisine forever",
+    "category": "Recreation"
+  },
+  {
+    "option1": "cook every meal from scratch",
+    "option2": "only ever use a microwave to cook",
+    "category": "Recreation"
+  },
+  {
+    "option1": "have a fully stocked spice rack",
+    "option2": "have a fully stocked freezer",
+    "category": "Recreation"
+  },
+  {
+    "option1": "always follow a recipe exactly",
+    "option2": "always improvise while cooking",
+    "category": "Recreation"
+  },
+  {
+    "option1": "eat mac and cheese every day",
+    "option2": "eat chicken nuggets every day",
+    "category": "Recreation"
+  },
+  {
+    "option1": "snack on popcorn at the movies",
+    "option2": "snack on candy at the movies",
+    "category": "Recreation"
+  },
+  {
+    "option1": "be the star player on a poorly performing team",
+    "option2": "be the worst player on a champion team",
+    "category": "Recreation"
+  },
+  {
+    "option1": "have a long, average sports career",
+    "option2": "have a short but amazing sports career",
+    "category": "Recreation"
+  },
+  {
+    "option1": "win the MVP award",
+    "option2": "win a team championship",
+    "category": "Recreation"
+  },
+  {
+    "option1": "go skiing",
+    "option2": "go snowboarding",
+    "category": "Recreation"
+  },
+  {
+    "option1": "surf",
+    "option2": "water ski",
+    "category": "Recreation"
+  },
+  {
+    "option1": "play a summer sport",
+    "option2": "play a winter sport",
+    "category": "Recreation"
+  },
+  {
+    "option1": "go rock climbing",
+    "option2": "go sailing",
+    "category": "Recreation"
+  },
+  {
+    "option1": "play badminton",
+    "option2": "play squash",
+    "category": "Recreation"
+  },
+  {
+    "option1": "play dodgeball",
+    "option2": "play volleyball",
+    "category": "Recreation"
+  },
+  {
+    "option1": "watch your favorite team play at the stadium",
+    "option2": "watch your favorite team play on TV",
+    "category": "Recreation"
+  },
+  {
+    "option1": "watch a professional sport",
+    "option2": "play a professional sport",
+    "category": "Recreation"
+  },
+  {
+    "option1": "watch the summer Olympics",
+    "option2": "watch the winter Olympics",
+    "category": "Recreation"
+  },
+  {
+    "option1": "watch the Olympics",
+    "option2": "watch the World Cup",
+    "category": "Recreation"
+  },
+  {
+    "option1": "play a team sport",
+    "option2": "play an individual sport",
+    "category": "Recreation"
+  },
+  {
+    "option1": "be great at every sport that uses a ball",
+    "option2": "be great at every sport played in water",
+    "category": "Recreation"
+  },
+  {
+    "option1": "work out with a friend",
+    "option2": "work out alone",
+    "category": "Recreation"
+  },
+  {
+    "option1": "do yoga",
+    "option2": "do pilates",
+    "category": "Recreation"
+  },
+  {
+    "option1": "hike with your family",
+    "option2": "hike with your friends",
+    "category": "Recreation"
+  },
+  {
+    "option1": "be a coach",
+    "option2": "be a referee",
+    "category": "Recreation"
+  },
+  {
+    "option1": "be good at ping-pong",
+    "option2": "be good at fencing",
+    "category": "Recreation"
+  },
+  {
+    "option1": "date someone who plays sports professionally",
+    "option2": "date someone who has never played a sport",
+    "category": "Recreation"
+  },
+  {
+    "option1": "be an actor in a movie",
+    "option2": "be an actor in a television show",
+    "category": "Recreation"
+  },
+  {
+    "option1": "be an actor in a comedy",
+    "option2": "be an actor in a drama",
+    "category": "Recreation"
+  },
+  {
+    "option1": "do your own stunts in an action movie",
+    "option2": "have a stunt person do them for you",
+    "category": "Recreation"
+  },
+  {
+    "option1": "play a villain in a movie",
+    "option2": "play a hero in a movie",
+    "category": "Recreation"
+  },
+  {
+    "option1": "be a stand-up comedian",
+    "option2": "be a concert pianist",
+    "category": "Recreation"
+  },
+  {
+    "option1": "be a famous movie star",
+    "option2": "be a member of your favorite popular music group",
+    "category": "Recreation"
+  },
+  {
+    "option1": "win an Olympic gold medal",
+    "option2": "win an Academy Award",
+    "category": "Recreation"
+  },
+  {
+    "option1": "be famous for your dancing",
+    "option2": "be famous for your singing",
+    "category": "Recreation"
+  },
+  {
+    "option1": "have a Star Trek marathon",
+    "option2": "have a Lord of the Rings marathon",
+    "category": "Recreation"
+  },
+  {
+    "option1": "be a contestant on a reality show",
+    "option2": "win an Oscar",
+    "category": "Recreation"
+  },
+  {
+    "option1": "watch a sporting event",
+    "option2": "watch a romantic movie",
+    "category": "Recreation"
+  },
+  {
+    "option1": "be a star on Broadway",
+    "option2": "be a star in Hollywood",
+    "category": "Recreation"
+  },
+  {
+    "option1": "be able to sing like a diva",
+    "option2": "be able to play guitar like a rock star",
+    "category": "Recreation"
+  },
+  {
+    "option1": "be a character in Gone with the Wind",
+    "option2": "be a character in The Wizard of Oz",
+    "category": "Recreation"
+  },
+  {
+    "option1": "be on a game show",
+    "option2": "star in a soap opera",
+    "category": "Recreation"
+  },
+  {
+    "option1": "play video games",
+    "option2": "play outside",
+    "category": "Recreation"
+  },
+  {
+    "option1": "go skiing",
+    "option2": "go to a water park",
+    "category": "Recreation"
+  },
+  {
+    "option1": "fly a kite",
+    "option2": "swing on a swing",
+    "category": "Recreation"
+  },
+  {
+    "option1": "exercise together with your partner",
+    "option2": "watch a movie together",
+    "category": "Recreation"
+  },
+  {
+    "option1": "go out for date night",
+    "option2": "do date night at home",
+    "category": "Recreation"
+  },
+  {
+    "option1": "live on the beach",
+    "option2": "live in a cabin in the woods",
+    "category": "Recreation"
+  },
+  {
+    "option1": "climb the highest mountains",
+    "option2": "swim the deepest seas",
+    "category": "Recreation"
+  },
+  {
+    "option1": "spend a week camping in the forest",
+    "option2": "spend a night in a real haunted house",
+    "category": "Recreation"
+  },
+  {
+    "option1": "live in an amusement park",
+    "option2": "live in a zoo",
+    "category": "Recreation"
+  },
+  {
+    "option1": "live in Narnia",
+    "option2": "go to school at Hogwarts",
+    "category": "Recreation"
+  },
+  {
+    "option1": "listen to music all the time",
+    "option2": "never be able to listen to music again",
+    "category": "Recreation"
+  },
+  {
+    "option1": "be a chef",
+    "option2": "be a server at a restaurant",
+    "category": "Recreation"
+  },
+  {
+    "option1": "take a trip down the Amazon River",
+    "option2": "walk the Great Wall of China",
+    "category": "Recreation"
+  },
+  {
+    "option1": "meet your favorite movie star",
+    "option2": "meet the President of the United States",
+    "category": "Recreation"
+  },
+  {
+    "option1": "eat any flavor of ice cream for a week",
+    "option2": "eat only vanilla ice cream for an entire summer",
+    "category": "Recreation"
+  },
+  {
+    "option1": "make a movie about your life before you were twenty-one",
+    "option2": "make a movie about your life after you turned twenty-one",
+    "category": "Recreation"
+  },
+  {
+    "option1": "shoot hoops with LeBron James",
+    "option2": "toss a football with Tom Brady",
+    "category": "Recreation"
+  },
+  {
+    "option1": "win on Survivor",
+    "option2": "win on The Bachelor",
+    "category": "Recreation"
+  },
+  {
+    "option1": "have unlimited international first-class flights",
+    "option2": "never pay for food at restaurants again",
+    "category": "Recreation"
+  }
+]

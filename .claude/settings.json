@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "Stop": [
+      {
+        "matcher": "Edit|Write|MultiEdit|NotebookEdit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash \"/Users/JVZ/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Games/Would You Rather/.claude/hooks/auto-commit.sh\""
+          }
+        ]
+      }
+    ]
+  }
+}

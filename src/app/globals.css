@@ -1,0 +1,158 @@
+@import "tailwindcss";
+
+/*
+ * Palette derived from the app logo: a question mark split down the middle,
+ * blue on the left / red on the right, glowing against near-black. That
+ * duality *is* the game (two sides, pick one) so it drives the whole
+ * theme — dark stage, with blue vs. red as the one recurring signature
+ * rather than a decoration.
+ */
+:root {
+  --bg: #191a1f;
+  --surface: #232429;
+  --surface-2: #2b2c34;
+  --text: #f4f2fb;
+  --text-soft: #9a96ae;
+  --line: #34353d;
+
+  --accent: #6c4ff6;
+  --accent-soft: #2a2440;
+
+  --side-a: #3e82ff; /* left / option1 — matches the logo's blue half */
+  --side-b: #ff4d5e; /* right / option2 — matches the logo's red half */
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-text: var(--text);
+  --color-text-soft: var(--text-soft);
+  --color-line: var(--line);
+  --color-accent: var(--accent);
+  --color-accent-soft: var(--accent-soft);
+  --color-side-a: var(--side-a);
+  --color-side-b: var(--side-b);
+  --font-display: var(--font-bricolage);
+  --font-sans: var(--font-jakarta);
+  --font-mono: var(--font-plex-mono);
+}
+
+body {
+  background:
+    radial-gradient(ellipse 900px 500px at 50% -10%, color-mix(in srgb, var(--accent) 16%, transparent), transparent),
+    var(--bg);
+  color: var(--text);
+}
+
+/* Faint dot-grid — a scoreboard/ledger feel on the dark stage. */
+.bg-ledger {
+  background-image: radial-gradient(circle, var(--line) 1px, transparent 1px);
+  background-size: 22px 22px;
+}
+
+.duel-panel-a {
+  background: linear-gradient(160deg, color-mix(in srgb, var(--side-a) 16%, var(--surface)), var(--surface));
+  border: 1px solid color-mix(in srgb, var(--side-a) 40%, var(--line));
+  color: var(--text);
+}
+
+.duel-panel-b {
+  background: linear-gradient(200deg, color-mix(in srgb, var(--side-b) 16%, var(--surface)), var(--surface));
+  border: 1px solid color-mix(in srgb, var(--side-b) 40%, var(--line));
+  color: var(--text);
+}
+
+.duel-panel-a.is-active {
+  border-color: var(--side-a);
+  box-shadow: 0 0 0 3px color-mix(in srgb, var(--side-a) 55%, transparent), 0 0 40px -12px var(--side-a);
+}
+
+.duel-panel-b.is-active {
+  border-color: var(--side-b);
+  box-shadow: 0 0 0 3px color-mix(in srgb, var(--side-b) 55%, transparent), 0 0 40px -12px var(--side-b);
+}
+
+/* Two-tone ring on the OR badge, echoing the logo's split glow. */
+.or-badge-ring {
+  background: conic-gradient(
+    from 180deg,
+    var(--side-a),
+    color-mix(in srgb, var(--side-a) 40%, var(--text)),
+    var(--text) 50%,
+    color-mix(in srgb, var(--side-b) 40%, var(--text)),
+    var(--side-b),
+    var(--side-a)
+  );
+}
+
+@keyframes slide-in-left {
+  from {
+    opacity: 0;
+    transform: translateX(-24px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes slide-in-right {
+  from {
+    opacity: 0;
+    transform: translateX(24px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes pop-in {
+  from {
+    opacity: 0;
+    transform: scale(0.85) rotate(-6deg);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1) rotate(0deg);
+  }
+}
+
+@keyframes rise-in {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.anim-slide-left {
+  animation: slide-in-left 0.45s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+.anim-slide-right {
+  animation: slide-in-right 0.45s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+.anim-pop {
+  animation: pop-in 0.5s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+.anim-rise {
+  animation: rise-in 0.4s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}
