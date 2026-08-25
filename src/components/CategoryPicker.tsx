@@ -3,6 +3,7 @@
 import Image from "next/image";
 import { CATEGORY_ORDER, CATEGORY_THEMES } from "@/lib/theme";
 import type { CategoryName } from "@/lib/types";
+import ThemeToggle from "./ThemeToggle";
 
 interface Props {
   selected: Set<CategoryName>;
@@ -26,7 +27,11 @@ export default function CategoryPicker({
   const canStart = poolSize > 0;
 
   return (
-    <div className="mx-auto flex w-full max-w-2xl flex-1 flex-col items-center justify-center px-6 py-16 text-center">
+    <div className="relative mx-auto flex w-full max-w-2xl flex-1 flex-col items-center justify-center px-6 py-16 text-center">
+      <div className="absolute top-4 right-4">
+        <ThemeToggle />
+      </div>
+
       <div className="anim-pop h-14 w-14 overflow-hidden rounded-full ring-2 ring-line">
         <Image
           src="/logo.jpeg"

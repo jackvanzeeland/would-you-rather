@@ -22,6 +22,26 @@
   --side-b: #ff4d5e; /* right / option2 — matches the logo's red half */
 }
 
+/*
+ * Light mode — opt-in via the toggle, for playing outdoors where a dark
+ * screen washes out in sunlight. Same duel-signature colors, deepened
+ * slightly for contrast against a bright stage instead of a dark one.
+ */
+:root[data-theme="light"] {
+  --bg: #f7f6fc;
+  --surface: #ffffff;
+  --surface-2: #ece9f7;
+  --text: #17151f;
+  --text-soft: #635d7a;
+  --line: #e1defa;
+
+  --accent: #6c4ff6;
+  --accent-soft: #ede9fe;
+
+  --side-a: #2563eb;
+  --side-b: #e0233f;
+}
+
 @theme inline {
   --color-bg: var(--bg);
   --color-surface: var(--surface);

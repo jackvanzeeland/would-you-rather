@@ -1,6 +1,17 @@
 import type { Metadata, Viewport } from "next";
 import { Bricolage_Grotesque, Plus_Jakarta_Sans, IBM_Plex_Mono } from "next/font/google";
+import Script from "next/script";
 import "./globals.css";
+
+// Runs before hydration so a returning visitor's saved light-mode choice
+// applies immediately — otherwise they'd see a flash of the dark default.
+const THEME_INIT_SCRIPT = `
+try {
+  if (localStorage.getItem('wyr-theme') === 'light') {
+    document.documentElement.setAttribute('data-theme', 'light');
+  }
+} catch (e) {}
+`;
 
 const bricolage = Bricolage_Grotesque({
   variable: "--font-bricolage",
@@ -59,9 +70,15 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
     <html
       lang="en"
+      suppressHydrationWarning
       className={`${bricolage.variable} ${jakarta.variable} ${plexMono.variable} h-full antialiased`}
     >
-      <body className="min-h-full flex flex-col bg-bg text-text font-sans">{children}</body>
+      <body className="min-h-full flex flex-col bg-bg text-text font-sans">
+        <Script id="theme-init" strategy="beforeInteractive">
+          {THEME_INIT_SCRIPT}
+        </Script>
+        {children}
+      </body>
     </html>
   );
 }

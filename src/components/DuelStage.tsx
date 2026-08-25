@@ -7,6 +7,7 @@ import { shareQuestion } from "@/lib/share";
 import type { OptionKey, Question } from "@/lib/types";
 import OptionPanel from "./OptionPanel";
 import OrBadge from "./OrBadge";
+import ThemeToggle from "./ThemeToggle";
 
 interface Props {
   question: Question;
@@ -73,6 +74,8 @@ export default function DuelStage({
           <span className="hidden font-mono text-xs text-text-soft sm:inline">
             round {String(round + 1).padStart(2, "0")}
           </span>
+
+          <ThemeToggle />
 
           <div className="relative">
             <button
