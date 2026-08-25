@@ -1,0 +1,19 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e33]:
+    - generic [ref=e34]:
+      - generic [ref=e35]: Deep Thoughts
+      - generic [ref=e38]:
+        - generic [ref=e39]: round 03
+        - button "Switch to dark mode" [ref=e40] [cursor=pointer]
+        - button "Share this dilemma" [ref=e44] [cursor=pointer]
+        - button "Change categories" [ref=e48] [cursor=pointer]
+    - paragraph [ref=e52]: Would you rather have a perfect memory, or have an extraordinary IQ?
+    - generic [ref=e53]:
+      - button "have a perfect memory" [disabled] [pressed] [ref=e83] [cursor=pointer]:
+        - generic [ref=e91]: ✓
+      - generic [ref=e56]: OR
+      - button "have an extraordinary IQ" [disabled] [ref=e87] [cursor=pointer]
+    - generic [ref=e61]:
+      - button "Next question now" [ref=e92] [cursor=pointer]
+      - paragraph [ref=e64]: ← → or 1 2 to choose · S to skip · 943 in the deck
+  - alert [ref=e32]

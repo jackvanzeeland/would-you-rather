@@ -1,0 +1,18 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e33]:
+    - generic [ref=e34]:
+      - generic [ref=e35]: Occupation
+      - generic [ref=e38]:
+        - generic [ref=e39]: round 01
+        - button "Switch to dark mode" [ref=e40] [cursor=pointer]
+        - button "Share this dilemma" [ref=e44] [cursor=pointer]
+        - button "Change categories" [ref=e48] [cursor=pointer]
+    - paragraph [ref=e52]: Would you rather be known for your technical expertise, or be known for your leadership abilities?
+    - generic [ref=e53]:
+      - button "be known for your technical expertise" [ref=e54] [cursor=pointer]
+      - generic [ref=e56]: OR
+      - button "be known for your leadership abilities" [ref=e59] [cursor=pointer]
+    - generic [ref=e61]:
+      - button "Skip this one" [ref=e63] [cursor=pointer]
+      - paragraph [ref=e64]: ← → or 1 2 to choose · S to skip · 943 in the deck
+  - alert [ref=e32]

@@ -1,0 +1,27 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - button "Switch to dark mode" [ref=e5] [cursor=pointer]
+    - paragraph [ref=e9]: 943 dilemmas · 7 categories
+    - heading [level=1] [ref=e10]:
+      - text: Would you
+      - generic [ref=e11]: rather
+      - text: "?"
+    - paragraph [ref=e14]: Pick a side. There's no wrong answer — just the one you'd actually live with.
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]: Pick your categories
+        - generic [ref=e18]:
+          - button "all" [ref=e19]
+          - button "none" [ref=e20]
+      - generic [ref=e21]:
+        - button "Deep Thoughts" [pressed] [ref=e22] [cursor=pointer]
+        - button "Family" [pressed] [ref=e23] [cursor=pointer]
+        - button "Friends" [pressed] [ref=e24] [cursor=pointer]
+        - button "Dating" [pressed] [ref=e25] [cursor=pointer]
+        - button "Occupation" [pressed] [ref=e26] [cursor=pointer]
+        - button "Dreams" [pressed] [ref=e27] [cursor=pointer]
+        - button "Recreation" [pressed] [ref=e28] [cursor=pointer]
+    - generic [ref=e29]:
+      - button "Start the duel →" [ref=e30] [cursor=pointer]
+      - paragraph [ref=e31]: 943 dilemmas in play
+  - alert [ref=e32]
