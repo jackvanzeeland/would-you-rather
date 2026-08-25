@@ -44,3 +44,4 @@ logs/
 # Claude Code
 .claude/.skip-auto-commit-prompt
 /data/raw
+.env*
